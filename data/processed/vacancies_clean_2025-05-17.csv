@@ -1,2366 +1,500 @@
 title,company,location,salary,description,experience,employment_type,schedule,working_hours,work_format,published_date,link,skills,salary_range,published_date_dt
-Системный администратор,ТОО Elite Business Group,Алматы,"от 900 000 ₸ за месяц, на руки","Крупная логистическая компания запускает цифровую трансформацию процессов. Ищем системного аналитика, который станет ключевым звеном между бизнесом и IT.
+Экономист,ТОО Solo-интерьер,Семей,"от 150 000 ₸ за месяц, на руки","Мебельная фабрика SOLO - крупнейший производитель мебели в Абайской области. Компания берёт начало в 1998 году. Производим и продаём мебель для B2C, B2B, B2G. Нашу мебель покупают во все города Казахстана. За всё время работы компания зарекомендовала себя как надежная, профессиональная команда специалистов.
 
-Обязанности:
+Придя в нашу в компанию, вам предстоит работа в интересной и бурно развивающейся компании. В 2020 году мы отстроили и переехали на новую производственную базу на 343 квартале. Регулярно обновляем парк оборудования и вводим новые технологии как на производстве, так и в менеджменте.
 
-Анализ требований: от интервью с пользователями до формализации ТЗ;
+Цель нашей компании - стать лидером в мебельной отрасли, чтобы наша продукция пользовалась спросом во всех регионах нашей страны и ближнего зарубежья!
 
-Поддержка жизненного цикла цифровых продуктов: от идеи до внедрения;
-
-Разработка user stories, тест-кейсов, актуализация проектной документации;
-
-Описание бизнес-процессов, проектирование интеграций между системами и БД;
-
-Коммуникация с разработчиками и заинтересованными сторонами;
-
-Презентация решений и обучение пользователей.
-
-Требования:
-
-Опыт системного анализа от 5 лет, из них от 2 лет — в логистике / ЖД-сфере — будет плюсом;
-
-Знание Python, SQL, VSCode;
-
-Опыт в Agile/Scrum среде;
-
-Умение работать с большим объемом информации и в высоком темпе;
-
-Высшее техническое или ИТ-образование.
-
-Важно: дисциплина, аналитический склад ума, стрессоустойчивость.
-
-Условия:
-
-Оформление по ТК РК, контракт на 1 год;
-
-Испытательный срок: 3 месяца;
-
-График: пн–пт, с 9:00 до 18:00;
-
-Оплачиваемый отпуск: 24 дня;
-
-Годовой бонус: 1–2 оклада по результатам компании;
-
-ДМС (60 000 ₸), компенсация 30% Esentai Fit+Spa.",3–6 лет,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120622844,Не указано,от 900000 ₸,2025-05-16
-Дата-аналитик / Data Analyst,ТОО MAXWELL DISTRIBUTION,Астана,"1 000 000 ₸ за месяц, на руки","Компания ТОО Maxwell Distribution Казахстан является дистрибьютором инновационного оборудования и программного обеспечения в сфере образовательных технологий.
-
-Мы в поисках Дата-аналитика в нашу команду!
-
-
-Обязанности:
-
-1. Анализ данных:
-
-Сбор, структурирование и анализ больших объемов разнородных данных (закупки, продажи, логистика, остатки, склад, маркетинг, финансы).
-Визуализация данных и построение дашбордов (в Power BI / Excel / Google Data Studio / Tableau).
-Построение отчетов по KPI подразделений, отклонениям от планов, ABC/XYZ-анализ, RFM-сегментация.
-
-2. Работа с таблицами и договорами:
-Ведение и контроль таблиц, связанных с поставками, заказами, логистикой, ценообразованием и контрагентами.
-Анализ условий договоров, выявление рисков и нестыковок.
-Сверка данных из разных источников — ERP, Excel, CRM и др.
-
-3. Аудит и верификация данных:
-Проведение внутреннего аудита данных: сверка поставок, объемов, цен, сроков исполнения и условий.
-Поиск аномалий и ошибок, причин несоответствий.
-Подготовка отчетов по выявленным проблемам и рекомендации по исправлению
-
-4.Автоматизация отчетности:
-Построение автоматизированных отчетов в Excel (формулы, макросы, сводные таблицы).
-Участие в проектах по интеграции аналитики в ERP/CRM-системы.
-Создание шаблонов для оперативного анализа и управления.
-
-Требования:
-
-Опыт аналитической работы от 3-5 лет (в роли аналитика, аудитора, экономиста, специалиста по BI).
-Уверенное владение Excel (вплоть до Power Query, макросов, сводных таблиц, условного форматирования).
-Навыки работы с BI-инструментами (Power BI, Tableau, Google Data Studio).
-Базовые знания SQL — как преимущество.
-Умение работать с договорами, внимательность к деталям.
-Сильные навыки логического и структурного мышления.
-Условия:
-
-Официальное трудоустройство в соответствии с ТК РК;
-
-График: 5/2, с 9:00 до 18:00;
-
-Бонусы и премии;
-
-Компания предоставляет социальную поддержку сотрудникам: единовременные выплаты, помощь в особых жизненных ситуациях;
-Дружный и молодой коллектив единомышленников;
-Крупные корпоративные мероприятия 2 раза в год.",3–6 лет,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120633960,Не указано,1000000 ₸,2025-05-16
-Scrum Master/Project Manager,COMTEK Inc.,Алматы,Не указано,"Scrum Master/Project Manager
-
-Scrum-мастер/руководитель проекта
-
-Scrum-мастер, ответственный за разработку, тестирование, внедрение и сопровождение множества ИТ-приложений и BI-решений.
-
-Обязанности:
-
-Управление командой из 5-10 разработчиков для каждого проекта и прямое сотрудничество с деловыми партнерами по всей компании.
-Использование Azure DevOps в качестве надежного источника для управления проектами, включая документацию по бизнес-требованиям, отслеживание рабочих элементов (оценка затрат, разработка), модульное тестирование, интеграционное тестирование, UAT и внедрение, а также управление хранилищем кода и конвейерами.
-Соблюдение требований ИТ-контроля, установленных Caterpillar для всех наших ИТ-приложений, таких как процедуры ITSM (управление инцидентами, изменениями, выпусками, проблемами), контроль доступа, кибербезопасность, план восстановления работоспособности, управление и т.д.
-Внедрение протоколов кибербезопасности и устранение уязвимостей, обнаруженных в наших инструментах. · Эффективно взаимодействовать с бизнес-командой, чтобы понять потребности бизнеса и улучшить существующие решения или создать новые.
-Предоставлять консультационные услуги внутреннему бизнесу по проектам совершенствования процессов, направленным на повышение ценности бизнеса. Предвидеть сложные бизнес-проблемы или возможности оптимизации процессов, определять альтернативы и рекомендовать лучшие решения, тесно сотрудничая с архитектурой предприятия, администраторами баз данных, командой GCC, отделом кибербезопасности и другими внутренними группами. Необходимые навыки и опыт
-
-Требования:
-
-Опыт работы в управлении ИТ-проектами не менее 5 лет или на аналогичной должности (Agile Scrum Master, методология Scrum).
-Подтвержденный опыт работы с инструментами управления разработкой программного обеспечения, такими как Azure DevOps.
-Командный игрок, отличные навыки общения и решения проблем. · Отличные навыки совместной работы.
-
-Облачная среда Amazon Web Services (AWS) · Хороший опыт работы на одном из следующих языков: HTML, Java, .Net, SQL · Инструменты ETL: DataStage, Snaplogic · Бизнес-решения: Tableau, Power BI, ThoughtSpot, Power Apps, Power Automate, Microsoft Fabric · Базы данных: Snowflake, MySQL, SQL Server, DB2
-
-· Agile Scrum Master responsible for developing, testing, implementing and maintaining multiple IT applications and BI Solutions.
-
-· Management of 5-10 developers team per project and direct collaboration with business partners all over the company.
-
-· Use of Azure DevOps as a safe source for project management, including business requirements documentation, work items follow up (cost estimation, development), Unit Test, Integration Test, UAT and Implementation, as well as Code Repository and Pipelines management.
-
-· Compliance of IT Controls established by Caterpillar for all our IT applications, such as ITSM procedures (Incident, Change, Release, Problem Management), Access Control, Cybersecurity, DR Plan, Governance, etc.
-
-· Implementation of Cybersecurity protocols and resolution of vulnerabilities detected in our tools.
-
-· Communicate effectively with Business team to understand the business needs and improve current solutions or building new solutions.
-
-• Provide consulting services to internal business on process improvement projects designed to improve business values.
-
-• Anticipate complex business problems or process optimization opportunities, identify alternatives, and recommend the best solutions working closely with Enterprise Architecture, DB admins, GCC team, Cybersecurity and other internal groups.
-
-Required Skills & Experience
-
-· At least 5+ years of experience in IT project management or a similar role (Agile Scrum Master, Scrum methodology).
-
-· Proven experience in Software Development Management tools such as Azure DevOps.
-
-· Team player, strong communication and problem-solving skills.
-
-· Excellent collaboration skills.
-
-· Proactivity.
-
-Valuable technical skills
-
-· Amazon Web Services (AWS) Cloud environment
-
-· Good experience in one of the following languages: HTML, Java, .Net, SQL
-
-· ETL tools: DataStage, Snaplogic
-
-· BI Solutions: Tableau, Power BI, ThoughtSpot, Power Apps, Power Automate, Microsoft Fabric
-
-· Databases: Snowflake, MySQL, SQL Server, DB2",более 6 лет,Полная занятость,5/2,8,Удалённо,16 мая 2025,https://hh.kz/vacancy/120632017,Не указано,Не указано,2025-05-16
-Group Finance Director,ТОО ALDAR EUROASIA PROPERTY MANAGEMENT,Астана,Не указано,"Group Finance Director position is expected to:
-
-• Be a single point of contact for all the financial aspects of all 3 legal entities operating for Abu Dhabi Plaza.
-
-• Execute closing and reconciliation of accounts and assist in preparing all financial reports from all 3 legal entities.
-
-• Provide financial guidance to Abu Dhabi Plaza management team.
-
-ROLES AND RESPONSIBILITIES
-
-•Be responsible for all activities related to financial management of entities operating for ADP (hereinafter – the Group) including, but not limited to:
-
-- Preparation, review and timely submission of monthly consolidated management accounts of the Group to the owner, including review of payables, receivables, depreciation, KPI’s, variances with budgets, Income, Service charge accounting etc.
-
-- Tax management for the Group
-
-- Management of accounting teams of the Group entities
-
-- Take necessary actions for restoring and recording of required financial statements for Aldar EuroAsia.
-
-- Manage owner’s expenses at AldarEuroAsia Hospitality (Shared Resources, Consultants’ costs)
-
-- Act as point of contact on behalf of the Group for intercompany accounts operations, bank transfers, solving operational issues related to fund transfers from HQ.
-
-- Take actions for centralizing IT systems on finance management across the Group.
-
-- Be responsible for reconciliation of all expenses in HQ related to ADP.
-
-- Provide support to internal and external auditors for audit of the respective entity.
-
-- Handle special analyses such as financial analysis and cash flow forecasting for the Group entities.
-
-- Manage (review, control execution) intercompany contracts across the Group.
-
-- Monitor expenditure for Pre-/Post-Opening costs for the Group and request funding from the owner, provide cash flow reports.
-
-RELATED YEARS OF EXPERIENCE
-
-Min of: 12+ years of experience
-
-YOE IN MANAGERIAL POSITION
-
-Min of: 5 years of related managerial experience.
-
-FIELD OF EXPERIENCE
-
-•Financial accounting and management accounting experience.
-
-•Previous experience in managing a retail or mixed used asset from a financial aspect.
-
-•Experience of accounting within real estate or related industry.
-
-•Experience in complex Group-wide accounting and reporting, preferably in a public company.
-
-TECHNICAL AND INTERPERSONAL SKILLS
-
-Excellent analytical skills.
-
-Vigilant and detail oriented.
-
-Strong communication skills.
-
-Strong time management capabilities.
-
-QUALIFICATION
-
-Bachelor's and/or Master's degree in accounting or finance.
-
-Other:
-
-Fluency in English language, IFRS experience is highly demanded",более 6 лет,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120632687,Не указано,Не указано,2025-05-16
-Revenue Accountant,"ТОО Epam Kazakhstan (Эпам Казахстан),ТОО",Астана,Не указано,"We seek a Revenue Accountant to join our Revenue Accounting & Collection team, a global financial department supporting our clients worldwide and adhering to international financial reporting standards.
-
-The scope of the position consists of general ledger double entries, month closure activities, and account receivables-related tasks.
-
-Mix remote work with in-office engagements by visiting the EPAM office in Astana or enjoying the comfort of working from home. The choice is yours!
-
-Responsibilities
-
-General ledger-related responsibilities
-Prepare and manage General ledger entries (revenues, accruals, deferrals)
-Verify the financial terms indicated in the clients’ contracts and apply them to accounting records
-Support month closure procedures
-Assist with annual and interim audit requests
-Accounts receivable-related responsibilities
-Issue invoices with required journal entries
-Prepare financial statements and reports detailing accounts receivable status
-Communicate with customers and businesses via email or telephone
-Maintain records of upcoming payments and monitor collections
-Post incoming payments from customers
-Maintain vendor forms
-
-Requirements
-
-Degree in accounting, finance or a related field
-1+ years of working experience in accounting or finance
-Knowledge of basic accounting practices and legalities
-Proficiency in Microsoft Excel, including pivot tables, charts, and formulas
-English level – B2+, both verbal and written
-Readiness to shifted working hours 12 PM – 9 PM (UTC+6) / 11 AM – 8 PM (UTC+5)
-
-Nice to have
-
-In-depth knowledge of IFRS and/or US GAAP
-DipIFR/ACCA or similar certification
-Experience working with SAP
-Ability to quickly grasp new processes and learn new tools
-Developed multitasking skills
-
-We offer
-
-We connect like-minded people: :
-Delivering innovative solutions to industry leaders, making a global impact
-Corporate and social events
-Enjoyable working environment
-We invest in your growth:  :
-Leadership development, career advising, soft skills and well-being programs
-Unlimited access to LinkedIn Learning and Get Abstract
-Free English classes with certified teachers
-Discounts in local language schools, including online courses for the Kazakh language
-We cover it all: :
-Participation in the Employee Stock Purchase Plan
-Medical & family care package
-Six trust days per year (sick leave without a medical certificate)
-Coverage of psychology sessions of your choice
-Benefits package (sports activities, a variety of stores and services)
-
-EPAM is a team of technologists and innovators united by a passion for technology. In Kazakhstan, we operate across all cities with offices in Astana, Almaty, and Karaganda and work with the world's leading companies from different industries. In 2023, EPAM received the Export Excellence Award at the esteemed Digital Bridge Awards, showcasing our commitment to excellence and innovation.",1–3 года,Полная занятость,5/2,8,Гибрид,16 мая 2025,https://hh.kz/vacancy/119580109,Не указано,Не указано,2025-05-16
-Директор по управлению товаром,ТОО Fashion Retail Group,Алматы,Не указано,"Крупная торговая компания — сеть магазинов модной обуви, одежды и аксессуаров ТМ Diesel, Tommy Hilfiger, Calvin Klein Underwear, Calvin Klein Jeans, Calvin Klein Sportswear, Walker, Under Armour, Etam — приглашает на работу Директора по управлению товаром.
-
-Обязанности:
-
-Прогнозирует объемы продаж и отвечает за их выполнение
-Составляет бюджет по продукту, осуществляет расчет ожидаемой прибыли и рентабельности, определяет возможность убытков для Компании и разрабатывает предложения по их минимизации
-Взаимодействует с партнером по вопросам заказа и поставок продукта
-Определяет структуру товарного обеспечения
-Планирует и осуществляет заказ сезонных коллекций товара
-Разрабатывает каналы сбыта продукта (розничные магазины, интернет, аутлеты, продажа оптом)
-Контролирует своевременность поставок товара
-Ведет деловую переписку с партнером
-Контролирует процессы организации распределения товара по складам и магазинам, а также перемещения товара между магазинами
-Анализирует оперативные данные об итогах продаж
-Определяет потребность дозаказа коллекций в течение сезона
-Прогнозирует этапы скидок
-Управляет ценовой политикой брендов
-Координирует мерчандайзинг продукта согласно установленных стандартов
-Изучает особенности продукта бренда и анализирует потребность покупателей на основе результатов маркетинговых исследований и обратной связи из магазинов
-Разрабатывает стратегию продвижения продукта с учетом рекомендаций партнёра, предложений подразделений маркетинга по проведению рекламных кампаний, выставок, презентаций, иных PR-акций
-Отслеживает ценовую политику и спрос на бренды конкурентов, определяет позиции продукта относительно аналогичных или схожих продуктов конкурентов
-Выявляет неудовлетворительные параметры продукта, требования покупателей к продукту и сообщает о них партнерам
-Подготавливает отчеты руководству предприятия о проделанной работе
-Исполняет иные смежные обязанности по продвижению и продаже продукта
-Требования:
-Опыт работы на аналогичной должности от 3-х лет в fashion retail
-Высшее образование (желательно экономика, маркетинг)
-Знание программ 1С, Excel, PowerPoint
-Английский язык - advanced
-Опыт в управлении ассортиментом, планировании оборачиваемости товара, ценообразовании
-Знание мировых тенденций моды
-Навыки маркетингового и финансового анализа
-Умение работать с большим объемом информации, высокий уровень ответственности и самостоятельности, инновационность и нацеленность на результат
-Условия:
-
-Работа в стабильно развивающейся компании
-
-Официальная заработная плата и трудоустройство
-
-График работы 5/2 с 10:00 до 19:00
-
-Молодой и дружный коллектив",3–6 лет,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120635509,Не указано,Не указано,2025-05-16
-Финансист,ТОО ATG Construction,Астана,Не указано,"Финансовый менеджер
-
-О компании ""ATG Construction""
-
-Наша компания – стабильный бизнес, объединяющий направления торговли, производства и сервисного обслуживания в строительной отрасли. Мы занимаемся продажей строительного оборудования, производим железобетонные изделия (ЖБИ), а также предоставляем в аренду строительную технику и сервис по аренде и обслуживанию биотуалетов. Компания динамично развивается и гарантирует полный комплекс услуг для строительных организаций. Мы ищем в свою команду опытного финансового менеджера, способного обеспечить прозрачность и эффективность финансовых процессов в разных бизнес-подразделениях.
-
-Обязанности финансового менеджера
-• Управленческий и оперативный учёт по направлениям бизнеса – ведение учёта и отчетности по отдельным видам деятельности (торговля оборудованием, производство ЖБИ, аренда техники и аренда биотуалетов) в разрезе проектов, подразделений и складов.
-• Анализ затрат и себестоимости – сбор и систематизация данных о затратах на производство и оказание услуг, расчёт себестоимости продукции и услуг, анализ изменений в составе затрат.
-• Анализ прибыльности и рентабельности – подготовка регулярных отчётов о финансовых результатах по каждому направлению деятельности, выявление наиболее/наименее доходных продуктов, анализ отклонений фактической рентабельности от плановой.
-• Бюджетирование и планирование – разработка годового и оперативных бюджетов (доходов и расходов), контроль исполнения бюджета, анализ отклонений и подготовка предложений по корректировке планов.
-• Платежный календарь и управление ликвидностью – формирование и актуализация графика платежей на основе контрактов и бюджетов, контроль дебиторской и кредиторской задолженности, прогнозирование и обеспечение своевременных расчетов с партнёрами и поставщиками.
-• Финансовая отчётность – подготовка регулярной финансовой отчётности для руководства и собственников (управленческие отчёты, показатели деятельности, Key Performance Indicators) в установленные сроки. Взаимодействие с главбухом и аудиторскими службами при формировании бухгалтерской отчётности.
-• Оптимизация финансовых процессов – поиск резервов сокращения затрат, участие в оптимизации финансовых и управленческих бизнес-процессов, внедрение новых учетных схем и инструментов (ERP/1C, BI-системы) для повышения прозрачности учета.
-• Контроль соблюдения финансовой дисциплины – обеспечение правильности оформления финансовых документов, контроль правильности начисления и уплаты налогов в рамках своей компетенции, взаимодействие с банковскими учреждениями и контролирующими органами.
-• Другие задачи по поручению руководства – участие в стратегических проектах (расчёт экономической эффективности, инвестиционных проектов, расширение продуктовой линейки), а также задачи, связанные с финансовым анализом и планированием.
-
-Требования
-• Высшее образование в области экономики, финансов или бухгалтерского учёта.
-• Опыт работы на должности финансового менеджера, финансового аналитика или аналогичной в торгово-производственных и сервисных компаниях от 3–5 лет. Желателен опыт работы именно в строительном секторе или смежных отраслях.
-• Профессиональные навыки: глубокое знание управленческого и бухгалтерского учёта (РСБУ, принципы учета себестоимости производства), владение методами бюджетирования и финансового планирования. Умение анализировать большие объемы данных, строить отчёты и дашборды.
-• Навыки работы с ПО: пользователь 1С, продвинутый Excel (сводные таблицы, формулы, анализ «что‑если»); опыт работы с BI-инструментами (Power BI, Tableau и др.) будет преимуществом.
-• Личные качества: Дотошность к мелочам, системный подход к работе, высокая ответственность и аккуратность, развитые аналитические способности. Умение работать в режиме многозадачности, соблюдать сроки и доводить начатое до конца. Проактивность, нацеленность на результат и поиск оптимальных решений.
-• Коммуникация: хорошие навыки межфункционального взаимодействия, умение четко излагать финансовые отчёты и рекомендации руководству и коллегам.
-• Дополнительно: Умение находить общить язык и выстраивать деловые отношения с коллективом будет большим плюсом при взаимодействии с сотрудниками для сбора данных.
-
-Условия работы
-• Официальное трудоустройство по ТК РК, стабильная заработная плата, соответствующая опыту и результатам работы. Возможна система бонусов и премий при оптимизации бюджета и нахождении слабых мест при аналитике.
-• График работы – полный рабочий день, 5/2.
-• Адрес работы компании ул. Талапкерская 26А (район ТРЦ Рахмет коктал)
-
-Если вы системный и инициативный финансовый специалист, умеющий видеть цифры в контексте общего бизнес-процесса, и вы хотите влиять на развитие компании, присылайте своё резюме!",более 6 лет,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120169436,Не указано,Не указано,2025-05-16
-Golang-разработчик,ТОО Butterfly Effect,Астана,Не указано,"Kazdream Group: Технологии для безопасного и справедливого общества
-
-Мы – ведущая IT-компания, создающая инновационные решения для общественной безопасности. Наша миссия – защита людей и обеспечение справедливости с помощью технологий.
-
-С 2016 года мы разрабатываем и внедряем передовые IT-продукты в области искусственного интеллекта, аналитики данных, государственных систем и систем специального назначения.
-
-Мы ценим профессиональный и личностный рост сотрудников, командную работу и новаторство.
-
-Присоединяйтесь, чтобы вместе сделать мир безопаснее!
-
-Чем предстоит заниматься:
-
-Участие в обсуждении процессов разработки, освоение новых технологий;
-Участие в разработке высоконагруженных проектов;
-Разработка back-end приложений для проектов компании на Go;
-Оптимизация существующего кода и сервисов.
-
-Мы ожидаем:
-
-Опыт разработки на Golang от 3 лет;
-Умение писать тесты;
-Знание паттернов проектирования современного ПО;
-Знание web-безопасности;
-Умение оптимизировать производительность приложений и баз данных;
-Знание Unix/Linux, Docker;
-Умение ясно и убедительно доносить технические идеи до нетехнических стейкхолдеров;
-Уровень английского языка не ниже B2 (Upper-Intermediate).
-
-Будет плюсом:
-
-PostgreSQL;
-ElasticSearch;
-Redis;
-ClickHouse;
-K8s;
-RabbitMQ;
-Kafka;
-Опыт разработки на Python (другие языки тоже приветствуются);
-Опыт работы с Data Lakes/Warehouses;
-PRs в Open source проектах.
-
-Мы предлагаем:
-
-Работа из офиса в г. Астана;
-5-дневка, с 10.00 до 19.00;
-Частичная компенсация фитнеса, медицинских услуг и курсов;
-Бесплатное обучение английскому и казахскому языкам;
-Выездные тимбилдинги и мероприятия по типу «турниры» (шахматы, настольный теннис, футбол, cybersport, волейбол, баскетбол и т.д.).",3–6 лет,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120633417,Не указано,Не указано,2025-05-16
-Бухгалтер по расчету заработной платы в кондитерскую фабрику,ТОО Алматинский продукт,Алматы,"до 450 000 ₸ за месяц, на руки","Каждый житель Казахстана хоть раз в жизни пробовал халву с товарной маркой А-продукт (в зеленой упаковке). Та самая халва была произведена в наших заводах. Компания динамично растет только вверх и на данный момент, общая численность сотрудников ТОО «Алматинский продукт», составляет свыше 600 человек. И именно ты сможешь стать частью нашей крупной компании!
-
-Обязанности:
-
-Своевременное и точное исчисление заработной платы, отпускных, больничных, праздничных, пособий, прочих выплат.
-Своевременно и точно исчислять налоги и обязательные платежи в бюджет, а также все виды удержаний с работников.
-Своевременное и точное отражение в учетной системе всех бухгалтерских проводок по начисленной заработной плате, пособий и других начислений, налогов по счетам бухгалтерского учета в разрезе необходимой аналитики.
-Подготовка, проверка и сдача налоговых деклараций на доходы работника/работодателя, отчетов в социальный фонд, в фонд занятости в соответствии с требованиями местного законодательства и представление данных по исчисленной заработной плате и налогам для своевременной оплаты.
-Подготовка и выдача сотрудникам справок, расчетных листков и прочих справок и сведений по заработной плате.
-Исчисление и оформление расчетов по договорам ГПХ с физическими лицами.
-Подготовка, проверка и сдача статистических отчетов
-Отражение проводок по заработной плате в бухгалтерском учете с учетом необходимой аналитики.
-Выполнение поручения главного бухгалтера.
-Требования:
-Общий стаж работы в бухгалтерии не менее 5 лет
-Опыт работы в организациях с большим количеством сотрудников (больше 300)
-Опыт начисления заработной платы (сменный графики, оклад, бонусы, совмещение и т.п.)
-Опыт начисления заработной платы нерезидентов
-Опыт сдачи налоговой и статистической отчетностей по заработной плате
-Знание требований и норм Законодательства Республики Казахстан относящихся к начислению заработной платы;
-Высшее бухгалтерское образование
-Будет преимуществом знание казахского языка.
-Условия:
-Рабочий график 08.00 - 17.00ч. (Понедельник-Пятница)
-Испытательный срок 3 месяца
-Обед за счет компании (собственная столовая);
-Работа в дружной и динамично развивающейся компании;
-Перспективы профессионального развития;
-Наши сотрудники работают в компании по 3-5-7-20 лет. Персонал отмечает стабильность компании и ее уверенность в завтрашнем дне;
-Возможность купить продукцию по скидке.
-Размер ЗП зависит от навыков и обсуждается при собеседовании!",3–6 лет,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120637722,Не указано,до 450000 ₸,2025-05-16
-Финансовый аналитик по контроллингу,ТОО ASTER AUTO,Алматы,"от 600 000 ₸ за месяц, на руки","Aster Auto — лидер на автомобильном рынке Казахстана и официальные дистрибьюторы и дилеры брендов OMODA, JAECOO, GAC, Renault, Lada, Chevrolet, Changan, JAC.
-Наша миссия — сделать жизнь людей счастливее, предоставив им легкий и прозрачный способ обменять свой автомобиль на другой — лучше и новее.
-
-Сейчас мы расширяем команду и ищем финансового аналитика по контроллингу, который поможет нам строить финансовую архитектуру компании завтрашнего дня.
-
-⸻
+Почему открыта вакансия: новая вакансия по проектной работе.
 
 Ваши задачи:
-• Проводить анализ фактических затрат по всем бизнес-направлениям;
-• Контролировать целевое и эффективное использование денежных средств;
-• Аудировать финансовые потоки и предотвращать нецелевые расходы;
-• Формировать управленческую отчетность, разрабатывать KPI и дашборды;
-• Участвовать в развитии систем учета и бизнес-аналитики, внедрять автоматизацию;
-• Работать в команде контролинга, взаимодействовать с другими подразделениями.
 
-⸻
+Проведение анализа и расчетов по новым проектам.
+Работа проектная, возможен удаленный формат (очное собеседование обязательно).",1–3 года,Проект или разовое задание,5/2,8,"На месте работодателя, удалённо или гибрид",17 мая 2025,https://hh.kz/vacancy/120655143,Не указано,от 150000 ₸,2025-05-17
+Бизнес-аналитик (Information Techology),ТОО DIGITIZE,Астана,"от 300 000 до 800 000 ₸ за месяц, на руки","Обязанности:
 
-✅ Что важно для нас:
-• Опыт работы в бухгалтерии по всем участкам;
-• Уверенное владение Excel (в т.ч. Power Query, сводные таблицы, ВПР, массивы) и Power BI;
-• Опыт анализа больших объемов данных, выявление закономерностей и трендов;
-• Высшее финансовое / экономическое образование;
-• Системное мышление, внимание к деталям, высокая внутренняя дисциплина.
-
-⸻
-
-Условия:
-• Официальное трудоустройство по ТК РК;
-• Своевременная, конкурентная заработная плата — обсуждается индивидуально;
-• Карьерный и профессиональный рост — в масштабной и амбициозной компании;
-• Корпоративные скидки на автомобили и сервисное обслуживание;
-• Работа в команде, где ценится открытость, честность и желание улучшать.
-
-⸻
-
-Немного о нас:
-• 20+ локаций в 17 городах Казахстана, Узбекистана и Беларуси;
-• Более 1 500 сотрудников;
-• Мы активно внедряем международные практики, цифровые решения и ценим командную синергию;
-• У нас вы не просто выполняете задачи — вы влияете на развитие бизнеса.
-
-⸻
-
-Откликайтесь! Даже если не уверены, что соответствуете на 100% — мы всегда рады амбициозным специалистам, готовым развиваться вместе с нами.",1–3 года,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120637829,Не указано,от 600000 ₸,2025-05-16
-Категорийный менеджер,ТОО ASSEN GROUP,Алматы,"от 400 000 до 600 000 ₸ за месяц, на руки","Интернет-магазин ASSEN — это надежный поставщик компьютерной техники, офисного оборудования и бытовой электроники с официальной гарантией и учётом НДС. Мы специализируемся на работе с корпоративными клиентами, включая ТОО, ИП, АО, РГП, КГП, ПХВ, ГККП на ПХВ и ПОУ по всей территории Казахстана.
-
-Обязанности:
-
-Формирование товарной матрицы по данному категории
-Анализ рынка, конкурентов
-Поиск и договорная работа с поставщиками
-Организация процесса закупа
-Ценообразование и маркетинг
-Анализ продаж
-Требования:
-Высшее образование в области менеджмента экономики или технической сфере
-Опыт работы в сфере электроники
-Английский(Обязательно)
-Умение работать с числовой информацией анализ данных
-Знание основ логистики + основы ВЭД
-Условия:
-Интересные задачи и построение многих процессов с нуля
-Уютный офис на Саяхате
-Работа в молодой команде специалистов
-Оформление по ТК РК и 5/2
-Испытательный срок - 3 месяца;
-ЗП + бонусы от KPI",3–6 лет,Полная занятость,5/2,9,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120464735,Не указано,400000-600000 ₸,2025-05-16
-Персональный менеджер с.Зеренда,АО Микрофинансовая организация KMF(КМФ),Кокшетау,Не указано,"Компания KMF – лидер на рынке микрофинансирования с большими планами на будущее. Мы открыли более 116 офисов, получили множество наград и активно принимаем участие в важных для экономики Казахстана событиях. Поддерживаем «зеленые технологии», спорт, предпринимательство и т.д.
-
-Персональный менеджер – это ключевое звено, лицо Компании, движущая сила, и мы ищем сотрудника в нашу команду. Персональный менеджер – это ответственность, амбициозность и коммуникабельность. Благодаря этим качествам вы сможете многого добиться и значительно повысить свои доходы.
-
-
-Что делать?
-• Консультировать клиентов на всех этапах сотрудничества;
-• Вести и увеличивать клиентскую базу;
-• Проводить финансовый анализ бизнеса клиентов.
-
-В помощь прилагается:
-• Планшеты;
-• Брендированная экипировка;
-• Оплачиваемая сотовая связь.
-
-Если у вас:
-• Высшее или средне-специальное образование;
-• Навыки пользователя ПК;
-• Желание быть лучше каждый день.",не требуется,Полная занятость,5/2,8,Не указано,17 мая 2025,https://hh.kz/vacancy/114003562,Не указано,Не указано,2025-05-17
-Network Engineer / Сетевой инженер,KIMEP,Алматы,Не указано,"KIMEP, CISC is looking for applicants to the following position:
-
-Job Title: Network Engineer
-
-Division: Academic Affairs
-
-Department: Computer and Information Systems Center (CISC)
-
-Position reports to: Technical Director of CISC and Network Manager
-
-Job Purpose Summary: Installation, adjustment and maintenance KIMEP LAN infrastructure
-
-Key Responsibilities and Duties:
-
-Installation, adjustment and maintenance KIMEP Active Directory, LAN, KIMEP Server’s equipment and KIMEP Server’s software
-Identify existing risks, threats, vulnerabilities in IT area
-Develop, implement and update an information security policy.
-Control over regulatory compliance of the information security policy
-Perform risk assessments and execute tests of data processing system to ensure functioning of data processing activities and security measures.
-Oversee the integrity of data and documental support of the changes in data.
-Control and provision for timely and complete backup of data.
-Train users and promote security awareness to ensure system security and to improve server and network efficiency.
-Keep confidentiality when working with computer information
-Submit to industrial safety and accident prevention rules
-Adjust computer equipment for work in the LAN of KIMEP, help users to fix it malfunction.
-Consult users in troubleshooting of software and hardware breakdowns.
-Make a malfunction diagnostics at the place and short-repair of computer equipment (change of power blocks, fans, and RAM)
-Make an installation of Microsoft Windows 7 , Windows 10, Windows Server 2008/2012 , MSOffice ,Browsers, E-mail on Kimep users computers , connect printers and multimedia hardware for use
-Installation of AntiVirus software and control for its update in time.
-Make a copy of user’s information in case of user’s move or change a computer.
-Other duties assigned by supervisor
-
-Minimum Qualifications: Higher education in IT technologies and experience of work with it for more than 1 year, knowledge and skills in working with Windows, Linux, FreeBSD, Active Directory, MS Office, Browsers, E-mail , sociability, managerial abilities, insistence, self-study capability.
-
-Preferred Qualifications: experience and skills in working with network equipment (switches, routers, firewalls) and servers. Experience in the development and implementation of information security policies and systems at the enterprise level. Knowledge of English will be a plus.
-
-Deadline for submission of applications/resumes is May 30, 2025 included or open until filled.
-
-Please indicate your salary expectations in KZT, net monthly.
-
-**********************************************************
-
-КИМЭП, ЦИКС в поисках соискателей на следующую вакансию:
-
-Наименование должности: Сетевой инженер
-
-Департамент: По учебной работе
-
-Отдел: Центр информационных и компьютерных систем (ЦИКС)
-
-Непосредственный руководитель: Технический директор ЦИКС и Сетевой менеджер
-
-Краткое описание должности: установка, наладка и обслуживание инфраструктуры локальной сети университета
-
-Основные должностные обязанности:
-
-Установка, настройка и обслуживание активной директории вуза, локальной сети, оборудования сервера университета и его программного обеспечения.
-Выявление существующих рисков, угроз и уязвимости в сфере ИТ.
-Разработка, внедрение и обновление политики информационной безопасности.
-Контроль за соблюдением нормативных требований политики информационной безопасности.
-Выполнение оценки рисков и проведение тестов системы обработки данных для обеспечения деятельности по обработке данных и мер безопасности.
-Контроль за целостностью данных и документальное сопровождение изменений данных.
-Контроль и обеспечение своевременного и полного резервного копирования данных.
-Обучение пользователей и повышение осведомленности о безопасности, в целях обеспечения безопасности системы и повышения эффективности серверов и сети.
-Соблюдение конфиденциальности при работе с компьютерной информацией.
-Соблюдение правил промышленной безопасности и техники безопасности.
-Настройка компьютерного оборудования для работы в локальной сети вуза, содействие пользователям в устранении его неисправностей.
-Консультирование пользователей по вопросам устранения неисправностей программного и аппаратного обеспечения.
-Диагностика неисправностей на месте и кратковременный ремонт компьютерного оборудования (замена блоков питания, вентиляторов, оперативной памяти)
-Установка Microsoft Windows 7, Windows 10, Windows Server 2008/2012, MSOffice, браузеров, электронной почты на компьютеры пользователей, подключение принтеров и мультимедийного оборудования для использования.
-Установка антивирусного программного обеспечения и контроль его своевременного обновления.
-Копирование информации пользователя в случае его перемещения или смены компьютера.
-Прочие обязанности по поручению непосредственного руководителя
-
-Минимальные квалификационные требования: высшее образование в области ИТ и не менее одного года опыта работы с ИТ, знания и навыки работы с Windows, Linux, FreeBSD, Active Directory, MS Office, браузерами, электронной почтой, коммуникабельность, настойчивость, навыки самостоятельной работы, способность к самообучению.
-
-Предпочтительные квалификационные требованияs: опыт и навыки работы с сетевым оборудованием (свитчами, маршрутизаторами, межсетевыми экранами) и серверами. Опыт разработки и внедрения политик и систем информационной безопасности на уровне предприятия. Знание английского языка является преимуществом
-
-Отклики принимаются до 30 мая 2025 года включительно или до найма сотрудников
-
-Просим указать ваши ожидания по заработной плате в тенге на руки в форме отклика.",1–3 года,Полная занятость,5/2,8,Не указано,16 мая 2025,https://hh.kz/vacancy/120635513,Не указано,Не указано,2025-05-16
-C++ Software Engineer,Andersen,Алматы,Не указано,"Andersen, an international IT сompany, invites an experienced C++ Software Engineer to work on a large-scale project for our USA partners.
-
-The customer is a leader in video streaming infrastructure, driving innovation and major developments in the online video streaming industry. They created the first commercial adaptive streaming player and the first software-defined encoding service that operates on any cloud platform. Their solutions are utilized by over 400 customers globally, including prominent names like the BBC, ClassPass, Discovery, fuboTV, and Hulu.
-
-The project is a cloud-native microservice architecture on AWS, Google Cloud, and Azure, making architectural decisions to evolve the products, collaborating directly on a product, and supporting the expansion of both the VOD and live coding teams.
-
-Tech stack on the project: C++(11 up to 20), Java, Video codecs and container formats, MPEG-DASH and HLS, OTT streaming workflows and video processing pipelines.
-
-Responsibilities:
-- Adding advanced features for video streaming workflows.
-- Enhancing video quality and compression efficiency.
-- Improvements to runtime performance/efficiency.
-- Developing high-quality, high-performance, fault-tolerant, well-tested, reusable, and scalable code that will be used.
-- Involving in all stages of development, from product ideation through architecture and execution.
-- Developing of new and improvement of existing features as well as opportunity to investigate and resolve issues.
-- Maintaining up-to-date knowledge of technology standards, industry trends, emerging technologies, and software development best practices.
-
-Must-haves:
-- Commercial development experience for 4+ years.
-- Extensive experience in C++ software development (C++11 and newer).
-- Solid understanding of video codecs and container formats.
-- Experience with streaming standards such as MPEG-DASH and HLS.
-- Familiarity with OTT streaming workflows and video processing pipelines.
-- Experience with Java (at least some exposure to Java-based services).
-- Good problem-solving and troubleshooting abilities.
-- Level of English – from Upper-Intermediate and above.
-
-Reasons why this job would be interesting to you:
-- Experience in teamwork with leaders in FinTech, Healthcare, Retail, Telecom, and others. Andersen cooperates with such businesses as Samsung, Siemens, Johnson & Johnson, BNP Paribas, Ryanair, Mercedes, TUI, Verivox, Allianz, T-Systems, etc..
-- The opportunity to change the project and/or develop expertise in an interesting business domain.
-- Job conditions – you can work both fully remotely and from the office or can choose a hybrid variant.
-- Guarantee of professional, financial, and career growth! The company has introduced systems of mentoring and adaptation for each new employee.
-- The opportunity to earn an additional up to 1,000 EUR per month by participating in the company's activities.
-- Access to the corporate training portal, where the entire knowledge base of the company is collected and which is constantly updated.
-- Bright corporate life (parties / pizza days / PlayStation / fruits / coffee / snacks / movies).
-- Certification compensation (AWS, PMP, etc).
-- Referral program.
-- English courses.
-- Private health insurance and compensation for sports activities.
-
-Your personal data is protected in accordance with GDPR regulations. Learn more: https://andersenlab.com/privacy-policy
-
-Join us!
-
-https://people.andersenlab.com/
-
-https://gsz.gov.by/registration/employer/vacancy/create-future/638/detail-public/",3–6 лет,Полная занятость,5/2,8,Не указано,16 мая 2025,https://hh.kz/vacancy/120642934,Не указано,Не указано,2025-05-16
-Начальник отдела финансовой отчетности (ПОД/ФТ),Публичная Компания «Freedom Finance Global PLC»,Алматы,Не указано,"Обязанности:
-
-взаимодействие с уполномоченными государственными органами по вопросам отчетности в сфере ПОД/ФТ;
-контроль за формированием и представлением в уполномоченные государственные органы отчетности, информации в соответствии с законодательством о ПОД/ФТ;
-обеспечение проведения оценки уровня риска клиентов, степени подверженности услуг (продуктов) рискам ОД/ФТ по продуктам (услугам) и контроль за их осуществлением;
-обеспечение учета, обобщение и анализ информации о результатах операций, проводимых клиентами;
-формирование и предоставление отчетности органам управления Компании на периодической основе;
-организация осуществления контроля за представлением Компанией в уполномоченные государственные органы информации в соответствии с Законом о ПОД/ФТ в части отчетности;
-разработка технических заданий, связанных с автоматизацией системы учета и программным обеспечением, используемых для осуществления внутреннего контроля в целях ПОД/ФТ;
-сбор количественных показателей по пороговым, необычных и подозрительных операций по заранее заданным критериям с учетом требований Закона о ПОД/ФТ;
-разработка и поддержание в актуальном состоянии внутренних нормативных документов;
-обеспечение надлежащего обучения работников в сфере ПОД/ФТ и контроль за прохождением работниками соответствующего обучения в сфере ПОД/ФТ;
-обеспечение реализации программ внутреннего контроля в целях ПОД/ФТ.
+Изучение внутренних нормативных актов и положений клиента. Изучение связанных норм законодательства РК;
+Проведение интервью бизнес-пользователей (владельца и исполнителей процессов), описания перечня бизнес процессов формату SIPOC: наименование процесса, входные артефакты, выходные артефакты, исполняющая роль.
+Отрисовка BPMN схемы. Согласование схемы с бизнес пользователем.
+Сбор и формирование функциональных требований целевой информационной системе или сервису;
+Сбор нефункциональных требований, формирование нагрузочного профиля: количество, типы данных, количество пользователей, режимы работы и т.д..
+Формирование СТПО, ПиМИ, эксплуатационной документации, Презентации, защита решения, обучение.
+Декомпозиция функций и групп процессов Реестра на составляющие атомарные процессы (входная форма, маршрут до N шагов, выходной документ и источника данных, преобразование, загрузка данных в приемник), отчёты (источники, состав данных, форма отображения).
+Проверка целостности Реестра процессов: все входы и выходы реестра каждого процесса имеют стыковки с другими строками Реестра процессов, не декомпозированных до процессов функций.
 
 Требования:
 
-высшее финансовое, экономическое или юридическое образование;
-опыт работы на финансовом рынке не менее трех лет, либо в сфере противодействия отмыванию денег и финансированию терроризма не менее двух лет, либо в сфере предоставления и/или регулирования финансовых услуг не менее трех лет;
-знание применимого законодательства, регулирующего вопросы ПОД/ФТ, осуществления деятельности на рынке ценных бумаг, банковской деятельности;
-навыки разработки нормативных документов и технических заданий для усовершенствования программного обеспечения в рамках соблюдения требований ПОД/ФТ;
-наличие сертификата (свидетельство) о прохождении обучения в целях ПОД/ФТ (приветствуется).
+Опыт работы Бизнес-аналитиком обязателен (от 1-го года до 3-х лет) ;
+Ответственность, стрессоустойчивость, исполнительность ;
+Знание нотации BPMN
+Преимущество: Понимание структуры законодательных актов РК, английский язык
 
 Условия:
 
-официальное трудоустройство
-пн - пт
-09:00 до 18:00
-офис расположен в БЦ Есентай Тауэр
-оплата мобильной связи
-корпоративный фитнес",более 6 лет,Полная занятость,5/2,8,Не указано,16 мая 2025,https://hh.kz/vacancy/120637978,Не указано,Не указано,2025-05-16
-Финансовый аналитик (начинающий специалист),ТОО Казахстанские Коммунальные Системы,Астана,"от 200 000 до 400 000 ₸ за месяц, на руки","Обязанности:
+Работа с масштабными проектами, лидерами отраслей;
+Возможности для профессионального развития и карьерного роста;
+Оформление по ТК РК;
+График работы: пн-пт с 9:00 до 18:00 (13:00-14:00 обед) + гибкий по согласованию;
+Оплачиваемый отпуск;
+Дружный, молодой коллектив;
+Корпоративные мероприятия ;
+Стильный, красивый офис в центре города.",1–3 года,"Полная занятость
+Возможно временное оформление",5/2,"8
+Вечерние или ночные смены",На месте работодателя или гибрид,16 мая 2025,https://hh.kz/vacancy/120637227,Не указано,300000-800000 ₸,2025-05-16
+Бухгалтер в одном лице,ТОО ТД Мега Сталь,Астана,"300 000 ₸ за месяц, на руки","Обязанности:
 
-- Разработка бизнес-планов, модель чувствительности факторов риска, прогноз денежных потоков, расчет окупаемости;
-- Участие в разработке проектов перспективных и текущих финансовых планов;
-- Сбор данных для разработки моделей во взаимодействии со структурными подразделениями предприятия и дочерним компаниями в местном и международном информационном пространстве;
-- Участие в работе с местными и международными банками, кредитующими организациями, инвесторами;
+• Ведение бухгалтерского и налогового учета
+ТОО/ИП ;
+• Сдача налоговых отчетностей (200,300,328, 100) ;
+• Сдача статистических отчетностей;
+• Кадровый учет ;
+• Начисление заработной платы ;
+• Начисление в бюджет налогов ;
+• Операции по поступлению , реализации , перемещению , списанию (ЭСФ, ВС, СНТ );
+• Импорт , возможен экспорт ;
+• Ведение банковских операций ;
+• Знание бухгалтерского учета и налогового законодательства ;
+• Внимательность , ответственность ;
+• Работа с документацией ;
 
-- Подготовка анализа перспективности и эффективности новых потенциальных проектов;
-- анализа финансовой отчетности, бюджетов, рынков, включая финансовые, макро показатели;
-- финансовые исследования рынка соответствующих товаров, работ или услуг, консультации по различным финансовым вопросам;
-- презентаций включая иллюстрацию финансовых диаграмм и графиков;
-- специальных запросов касательно деятельности направления;
-
-Специалист начального уровня будет обучен с нуля!
-
-Требования:
-Выпускники по финансовым, экономическим и математическим специальностям;
-Хорошие знания MS Office (Excel);
-Стрессоустойчивость;
-Английский язык на уровне upper-intermediate;
-Желание развиваться
-Условия:
-Конкурсный отбор;
-Испытательный срок 3 месяца;
-На период испытательного срока оклад 200 000 тг., после испытательного срока 400 000тг.;
-Специалисты будут обучены с нуля руководством с опытом работы в международных компаниях;
-Возможность для профессионального роста и развития;
-Обязательное направление школьного аттестата с оценками;
-Обязательное направление диплома с приложениями;
-Вы получите опыт работы в сфере инвестиций инвесторов международного уровня",1–3 года,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120632357,Не указано,200000-400000 ₸,2025-05-16
-Senior IT Auditor (Almaty/Astana),ТОО KPMG,Астана,Не указано,"Key Responsibilities:
-
-Lead and participate in the execution of IT audit engagements as part of financial audits, including assessment of IT General Controls (ITGC), automated business controls, and system interfaces;
-Manage project teams, including planning, task allocation, quality review, and monitoring of deadlines and deliverables;
-Conduct IT risk assessments of client environments, including evaluations of access management, change management, backup procedures, and incident response processes;
-Prepare audit reports, client recommendations, and deliver presentations of findings to key stakeholders;
-Coordinate with financial audit teams, technical experts, client IT departments, and international offices;
-Support advisory projects in areas such as SOX compliance, ESG readiness, IPO support, M&A due diligence, and information security assessments;
-Mentor and develop junior team members through coaching, feedback, and formal/informal training;
-Ensure compliance with internal quality standards and global audit methodologies of the firm.
-
-
-Qualifications and Requirements:
-
-Bachelor's or Master's degree in Information Technology, Cybersecurity, Economics, Audit, or a related field;
-3 to 6 years of relevant experience in IT audit, IT consulting, cybersecurity, or internal controls, Previous work experience at a Big 4 firm will be considered an advantage;
-Hands-on experience with major IT environments and systems such as SAP, Oracle, 1C, Microsoft Dynamics, including understanding of system architecture, access rights, and audit logging;
-Solid knowledge and practical application of frameworks such as ITGC, COBIT, ISO 27001, data protection regulations (e.g., GDPR), and SOX requirements is a strong advantage;
-Possession or active pursuit of certifications such as CISA, CIA, CISSP, ISO 27001 Lead Auditor is preferred;
-Strong command of English at Upper-Intermediate to Advanced level for working with international clients and documentation;
-Experience engaging with senior stakeholders such as CIOs, CFOs, Internal Audit Heads.
-
-
-Professional Attributes:
-
-Strong critical thinking skills and the ability to structure complex information, identify control gaps, and provide value-added recommendations;
-Well-developed project management and leadership capabilities;
-Ability to manage multiple projects and deadlines simultaneously;
-Proactive, results-oriented mindset with an interest in developing new service areas.",3–6 лет,Полная занятость,5/2,8,На месте работодателя или гибрид,16 мая 2025,https://hh.kz/vacancy/120642412,Не указано,Не указано,2025-05-16
-Финансовый аналитик/внутренний аудитор,ИП МИРЗАХМЕТОВА А К,Астана,Не указано,"Полная занятость, график 5/2
-
-Наша компания предоставляет консалтинговые услуги по размещению ценных бумаг на бирже. В связи с дальнейшим развитием нам в команду требуется Финансовый аналитик/ внутренний аудитор.
-
-Ты получишь колоссальный опыт в динамично-растущей компании с дружным и молодым коллективом!
-
-Обязанности:
-
-● Проведение внутренних проверок (финансовых, операционных и др.)
-
-● Анализ доходов, расходов, прибыли и ликвидности
-
-● Контроль за исполнением бюджета и оптимизация затрат
-
-● Управление денежными потоками и банковскими операциями
-
-● Моделирование финансовой модели
 
 Требования:
 
-● Опыт в сфере финансов обязателен
+Высшее образование ;
+Опыт работы не менее 3 лет ;
+Ответственность ;
+Пунктуальность ;
+Оперативность ;
+Коммуникабельность .
+Условия:
+Официальное трудоустройство ;
+Работа в офисе ;
+График 5/2;",3–6 лет,Полная занятость,5/2,8,На месте работодателя,17 мая 2025,https://hh.kz/vacancy/120655378,Не указано,300000 ₸,2025-05-17
+"Senior Java Developer, AWS",COMTEK Inc.,Алматы,Не указано,"Подбираем команду для крупной американской компании - мирового лидера в производстве спецтехники, промышленных машин и оборудования с 1886 года.
 
-● Знание и работы в excel ( фин моделирование)
+Лидера, потому что машины компании высокотехнологичны, надежны и экономичны. Каждая машина имеет сотни датчиков. 30 миллионов машин компании в мире передают петабайты данных. Все эти данные неоценимы для клиентов - быстрого и эффективного управления бизнесом и команда создает инновационную платформу для осуществления прогнозной аналитики.
 
-● Быть максимально общительным / многозадачным сотрудником!
+Вы будете работать в этом проекте в составе команды выдающихся разработчиков. Создадите платформу с нуля. Вы напишете базовый движок, который поддерживает персонализированные информационные панели. Ваши API-интерфейсы позволят пользователям просматривать оповещения, рекомендации и рабочие задания. Пользователи могут вернуться на несколько лет назад, чтобы увидеть историю машины. Вы будете писать запросы и алгоритмы, обрабатывающие терабайты данных. Масштаб и размер данных и потоков не имеют себе равных. Вы будете решать все задачи, которые только можно придумать в информатике, от алгоритмов до динамически оптимизированных запросов.
 
-● Быть честным / целеустремлённым / результативным
+Мы ожидаем, что у вас есть опыт:
 
-● Знание Английского языка
+- 5+ лет коммерческой разработки на Java: Microservices, Springboot;
+
+- опыт с инфраструктурой AWS, развертывания и обслуживания программного обеспечения в публичных облаках;
+
+- солидные знания основ информатики, структур данных и алгоритмов;
+
+- письменный уровень английского языка, достаточный для работы в интернациональной команде (В1+);
+
+В проекте вы сможете поработать с:
+
+- технологиями потоковой передачи данных (это будет технология, аналогичная Spark Streaming, Flink и / или Akka, Kinesis, Kafka и т. д.);
+
+- задачами с Restful API, написанием прокси API на платформах Apigee Edge, AWS APIGateway или Azure API Gateway, инструментами Swagger, Postman и Assertible;
+
+- разработкой программных приложений с использованием реляционных баз данных и баз данных Nosql;
+
+- всем многообразием инфраструктуры Amazon;
+
+- работать в командах экспертных разработчиков, разделяющих принципы Agile/Scrum методологии;
+
+Мы предлагаем:
+
+- удаленная работа
+
+- гибкий график, комфортный work&life balance;
+
+- налаженные процессы, здоровая дружелюбная атмосфера;
+- высокий уровень заработной платы в валюте",более 6 лет,Полная занятость,5/2,8,Удалённо,17 мая 2025,https://hh.kz/vacancy/120524206,Не указано,Не указано,2025-05-17
+IT-специалист / Системный Администратор / Системный аналитик,Государственное коммунальное предприятие Семей Водоканал,Семей,Не указано,"Обязанности:
+
+-Системная поддержка пользователей
+
+-Ремонт настройка компьютеров и ПО
+
+-Администрирование серверов и служебных программ
+
+Требования:
+
+​​​Образование: - средне-специальное, высшее
+
+Опыт работы: - желателен
+
+Навыки, умения, способности:
+
+- Знание Excel, DBF на продвинутом уровне
+
+- многозадачность
+
+-способность быстро решать поставленные задачи
+
+-умение анализировать проблемы и находить решения
 
 Условия:
 
-● График 5/2 с 9:00ч до 18:00ч
+График работы:
 
-● Прозрачная и понятная система оплаты
+- с Понедельника по Пятницу с 8-00 до 17-00, (Сб-Вс выходной)
 
-● Работа в центре города / со всеми условиями
+- Кандидату необходимо будет пройти ознакомительный срок 3 дня (неоплачиваемый)
 
-● Дружная и сильная команда / все условия для твоего роста
+- Есть перспектива перехода на роль ведущего специалиста",1–3 года,Полная занятость,5/2,8,На месте работодателя,17 мая 2025,https://hh.kz/vacancy/120654016,Не указано,Не указано,2025-05-17
+Start-up co-founder | Software engineer,Pre-seed start-up,Астана,Не указано,"Pre-seed startup seeking a technical co-founder to join as a true partner, with a clear path to becoming CTO as the company scales.
 
-Если тебя заинтересовала данная вакансия и ты хочешь быть частью нашей команды, то отправь презентацию о себе и распиши почему я должен принять именно тебя???",1–3 года,"Полная занятость
-Стажировка",5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120635465,Не указано,Не указано,2025-05-16
-Бизнес-аналитик в сфере ИИ,ТОО Виктори-Технолоджи,Астана,"от 700 000 до 900 000 ₸ за месяц, на руки","Мы создаем AI-платформы, которые помогают повышать прозрачность правосудия.
+Preferred personality:
+
+1. Hardworking, by than I mean at least 20-25 hours per week at pre-revenue/pre-seed round stage, increasing to a minimum of 65 hours per week once funding is secured. The expected time commitment may make it challenging to balance with family responsibilities, please be aware of it. That said, the potential exit returns are expected to justify the intensity.
+
+2. Results-driven, and a strong problem solver. You move fast, think fast, and iterate even faster.
+
+3. Relocation readiness within next 6 month: I plan to apply to Y Combinator’s Fall batch, which would require both of us to relocate to the U.S., if accepted. If not, I’d encourage my co-founder to relocate to New Zealand, I can assist with visa/travel, if required.
+
+Your background: experience level matters less than your ability to thrive in uncertainty, learn quickly, and ability to work and solve problems independently. However, would be good to have a background in backend systems, data processing, and AI.
+
+Commercial terms: Equity split is 50/50 with a 1-year cliff and 4-year vesting. The company will be incorporated in New Zealand, where non-residents, including Russian citizens, can legally be added as shareholders. IPs will be owned by incorporated legal entity. Overall, all best practice of YC will be implemented.
+
+Finally, the problem I'm working on:
+
+Automating financial due diligence to eliminate repetitive, manual tasks and reduce the need for excessive human input. While the idea may not sound glamorous at first, the market opportunity is huge—with the potential to scale into a hundred-million-dollar business.
+
+This will be a SaaS platform designed for global scale, targeting clients in the US, Canada, Australia, New Zealand, Europe, and the UK.
+
+As a technical co-founder, you’d lead development of:
+
+A backend engine to ingest and process structured management accounts and financial data (e.g., from Xero, Excel, or QuickBooks)
+
+Automated variance analysis, KPIs, and adjustment flagging based on accounting logic
+
+Smart generation of management queries, due diligence agendas, and draft report structures
+
+Integration of LLMs for contextual insight extraction, narrative generation, and partner feedback resolution
+
+About myself & who you would work with:
+
+1. Background in management consulting and corporate finance, with 9 years of experience across Deloitte, PwC, BDO and CVA, primarily focused on M&A and financial due diligence. I’ve seen how repetitive and inefficient this process can be, and that’s what sparked my startup idea.
+
+2. Have a good network of potential clients and PE funds across New Zealand and Australia.
+
+3. Personality-wise, I’m driven, action-oriented and hard-working.
+
+Roles and responsibilities:
+
+I’ll take ownership of fundraising, pitch decks, financials, sales, and overall product direction. From my technical co-founder, I expect strong execution and proactive input on improving design and engineering, contributing ideas that strengthen and refine the product vision. If you're interested in taking on more responsibility beyond the technical side (sales or accounting), I'm happy to share, but there's no expectation to do so.
+
+Cover letter
+
+Please include a brief cover letter so I can learn a bit about you. The format doesn’t matter, just something that helps me understand your background and what motivates you.
+
+Pre-seed стартап ищет технического сооснователя, который присоединится как настоящий партнёр, с чёткой перспективой занять позицию CTO по мере роста компании.
+
+Предпочтительные личные качества:
+
+Трудолюбие — под этим я подразумеваю минимум 20–25 часов в неделю на этапе pre-seed/до получения дохода, с увеличением нагрузки до минимум 65 часов в неделю после привлечения финансирования. Такой график может быть труден для совмещения с семейными обязательствами, прошу учитывать это. Тем не менее, ожидаемый выход (exit) потенциально оправдает вложенные усилия.
+
+Ориентированность на результат и решение проблем — ты быстро думаешь, быстро действуешь и быстро улучшаешь.
+
+Готовность к переезду в течение следующих 6 месяцев: я планирую подать заявку в осеннюю волну Y Combinator. В случае успеха, это потребует переезда обоих в США. Если нет — я поощряю переезд сооснователя в Новую Зеландию и готов помочь с визой и переездом при необходимости.
+
+Твой опыт:
+
+Формальный опыт менее важен, чем способность работать в условиях неопределённости, быстро учиться и самостоятельно решать задачи. В идеале — опыт в backend-разработке, обработке данных и AI.
+
+Финансовые условия:Распределение долей: 50/50. Вестинг: 4 года с кллиффом 1 год. Компания будет зарегистрирована в Новой Зеландии. Законодательство позволяет включать иностранных (в т.ч. российских) граждан в состав акционеров, даже без резидентства.Интеллектуальная собственность будет принадлежать юридическому лицу. Все лучшие практики Y Combinator будут применены.
+
+О проблеме, которую мы решаем:
+
+Мы автоматизируем финансовую due diligence, чтобы устранить рутинные, повторяющиеся задачи и сократить необходимость в избыточном человеческом участии. Хотя идея может показаться не самой «гламурной», рынок огромен — с потенциалом выйти на сотни миллионов долларов выручки.
+
+Это будет глобальная SaaS-платформа, ориентированная на рынки США, Канады, Австралии, Новой Зеландии, Европы и Великобритании.
+
+Какой продукт ты будешь строить: Backend-система для загрузки и обработки управленческой отчётности (Xero, Excel, QuickBooks и др.)ю Автоматический анализ отклонений, KPI и выявление корректировок по учётной логике. Умная генерация вопросов к менеджменту, due diligence-агенд и шаблонов отчётов. Интеграция LLM для анализа контекста, генерации текста и обработки обратной связи от партнёров",3–6 лет,Полная занятость,5/2,по договорённости,Удалённо или гибрид,17 мая 2025,https://hh.kz/vacancy/120653995,Не указано,Не указано,2025-05-17
+Помощник/ассистент руководителя,ИП Credit Consult Group,Алматы,Не указано,"Мы — «Credit Consult Group», команда экспертов, с 2020 года помогаем малым и средним бизнесам получать доступ к выгодному кредитованию. Мы предоставляем полный спектр услуг по сбору, проверке и подготовке документов для оформления залоговых и беззалоговых кредитов для бизнеса по низким ставкам. Наши клиенты: ИП, ТОО, крестьянские хозяйства и др. представители B2B-сегмента.
+Наша миссия: помочь как можно большему числу предпринимателей и бизнесменов развить свое дело, чтобы создавать новые рабочие места и вносить свой вклад в развитие экономики страны. Мы верим, что каждое успешное дело — это шаг к более стабильному и процветающему завтра. Мы уже помогли получить бизнесам кредитов на сумму более 8 миллиардов тенге.
+
+В сферу наших услуг входит оформление всей первичной документации: справок о налоговой задолженности, справок об обременениях, составления бизнес-планов, финансового анализа и др.
+
+Наша гордость — молодой, дружный и амбициозный коллектив, который не боится сложных задач и всегда идет навстречу новым вызовам. Мы ценим не только профессионализм, но и человеческие отношения. У нас нет бюрократии и стагнации — только дружеская атмосфера и общая цель сделать мир бизнеса лучше.
+В связи с ростом ищем в команду ассистента, готового стать частью нашей команды.
+
+Основной функционал:
+
+Встреча клиентов в офисе (чай, кофе)
+
+Организация и протоколирование встреч Zoom
+
+Выполнение личных поручений
+
+Закуп товара в офис
+
+Подача объявлений вакансий, первичные собеседования, назначение встреч с руководством
+
+Контроль подрядчиков, поиск мастеров на мелкие работы при необходимости
+
+Предоставление информации для отдела маркетинга по запросу
+
+Вести таблицу учета ДДС — для директоров
+
+Работа в АМОсрм
+
+Отправка документов бухгалтеру на оплату
+
+Контроль ежемесячных оплат сервисов и и.д.
+
+Что важно в кандидате:
+
+Знание русского и казахского языков;
+
+Грамотная устная и письменная речь, владение Word и Excel;
+
+Навыки деловой коммуникации на высоком уровне (интеллигентность, уважение к клиентам).
+
+Условия работы:
+
+График работы: 5/2 с 10:00ч до 18:00ч;
+
+ЗП 150 000 тенге;
+
+Есть возможность карьерного роста до финансового консультанта;
+
+Официальное устройство по ТК РК, пенсионные отчисления;
+
+Дружный коллектив и уютный офис.
+
+Для прохождения на вакансию нужно:
+
+Пройти первичное собеседование по телефону
+
+Пройти итоговое собеседование с генеральным директором.
+
+До встречи в нашей команде!",не требуется,"Полная занятость
+Возможно временное оформление",5/2,8,На месте работодателя,17 мая 2025,https://hh.kz/vacancy/120522692,Не указано,Не указано,2025-05-17
+SMM специалист / Project manager,ИП Sanber Agency,Астана,Не указано,"Sanber Agency — маркетинговое агентство, которое помогает брендам расти через стратегию, контент, аналитику и системный подход.
+Мы ищем SMM специалиста / Project менеджера, который умеет не просто вести аккаунты, а управлять проектами, влиять на визуал и видеть общую картину.
+
+Кому подойдёт эта роль:
+Если ты уже работал в SMM и хочешь перейти на уровень выше — работать с крутыми проектами, не просто создавать контент, а рулить проектом, командой и результатом — это твой шанс.
+
+Ты будешь выстраивать стратегию, управлять командой и вести проект от идеи до реализации.
 
 Задачи:
+• Создавать стратегии и реализовывать их на практике
+• Курировать контент-план, писать тексты, следить за визуалом
+• Организовывать съёмки, выдавать ТЗ дизайнеру, мобилографу, видеографу
+• Контролировать ход проекта и вносить предложения по улучшению
+• Поддерживать коммуникацию с клиентами и командой
+• Анализ эффективности: метрики, выводы, точки роста
 
-Сбор, анализ и формализация требований к функционалу системы от заинтересованных сторон
-Моделирование бизнес-процессов, связанных с судебными процедурами
-Участие в проектировании пользовательских сценариев
-Подготовка проектной документации
-Анализ судебной практики и нормативных документов для корректной интерпретации данных ИИ
-Взаимодействие с учеными и разработчиками
+Что важно:
+• Опыт в маркетинге от 1 года
+• Умение видеть проект целиком, брать на себя ответственность
+• Навыки командной работы и управления процессом
+• Знание базовых инструментов: Figma, Canva, Google Таблицы, таск-трекеры
+• Понимание ключевых метрик, трендов и визуала
 
-Требования к квалификации:
+Что предлагаем:
+• Возможность вырасти в стратега и управленца
+• Удаленный график работы
+• Работа с локальными и международными брендами
+• Команда, в которой ценят инициативность, ясность и здоровую амбициозность
+• Портфолио с реальными, сильными кейсами
+• Обучение внутри команды — мы делимся знаниями, опытом и растем вместе",1–3 года,Полная занятость,5/2,8,Удалённо,17 мая 2025,https://hh.kz/vacancy/120532081,Не указано,Не указано,2025-05-17
+"Senior Back-end Developer (PHP, Symfony)",Tando Financial a.s.,Астана,Не указано,"Our company is part of a large Fintech holding, a leader in lending, debt collection, and marketing in the Czech Republic, Ukraine, Spain, and Romania. We are seeking an experienced Senior PHP Software Developer to create innovative services that meet high standards of quality and reliability. Operating under a Czech National Bank license, we have provided international market services for over 10 years.
 
-Опыт работы бизнес-аналитиком от 3 лет, в проектах в области юриспруденции или в ИИ
-Понимание жизненного цикла разработки ПО и Agile-подходов
-Навыки описания процессов (BPMN/UML), подготовки ТЗ и прочей проектной документации
+Key Requirements
 
-Мы предлагаем:
+5+ years of software development experience, with a focus on PHP and modern ecosystem technologies.
+Symfony: Expertise in building and maintaining complex applications.
+Architectural Solutions: Design and development of sophisticated systems using SOLID principles and modern architectural patterns.
+Databases: Proficiency with relational (MySQL, PostgreSQL) and non-relational databases; query optimization and data structure design.
+Queues (RabbitMQ, Kafka, etc.): Configuration and optimization.
+REST API & Microservices: Development and integration of APIs for frontend interfaces and external systems.
 
-Участие в высокотехнологичном коммерческом проекте
-Команду экспертов из сфер права и ИТ
-Работа в офисе г. Астана, ул.Жошы хан 27
-5 дней в неделю с 9:00 до 18:00
-Практикуем быстрый найм, без долгих согласований и этапов",3–6 лет,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120631961,Не указано,700000-900000 ₸,2025-05-16
-Финансовый аналитик / экономист,Частная компания FREEGATE CAPITAL Ltd.,Астана,"от 1 000 000 ₸ за месяц, на руки","Наша компания - это лицензированный Private Equity фонд, зарегистрированный на территории МФЦА и действующий в рамках режима Collective Investment Scheme.
+Core Skills & Knowledge
 
-Мы управляем инвестициями с совокупным оборотом порядка 20 миллионов долларов США, и находимся в стадии активного роста и расширения инвестиционного портфеля.
+SOLID, OOP: Deep understanding and practical application.
+Design Patterns: Mastery of architectural patterns to enhance efficiency and system resilience.
+REST API & Integrations: API development and integration with internal/external services.
+Testing: Experience writing unit and integration tests.
+Agile: Familiarity with Scrum or Kanban methodologies.
 
-Команда компактная и профессиональная, с высокой долей автономности в работе. От новых сотрудников ожидается самостоятельность, инициативность и ответственность за результат при регулярной координации с руководством фонда.
+Skills & Tech Stack PHP 8.1*, Symfony 6*, architectural design, SOLID, databases (MySQL, PostgreSQL), queues (RabbitMQ, Kafka), REST API, microservices, OOP, design patterns, testing (unit, integration), Agile, Scrum, Kanban, Vue.js 3, TypeScript, Redis, APM, CI/CD, DevOps, Laravel, Yii
 
-Обязанности:
+Will be a plus
 
-Финансовое моделирование:
+Practical experience with Vue.js for UI development.
+TypeScript knowledge and implementation.
+Familiarity with Redis or other caching systems.
+Experience with APM tools and logging for production performance monitoring.
+CI/CD & DevOps: Automation of deployment processes and DevOps practices.
+Skills in Laravel/Yii frameworks, plus optimization of legacy services.
 
-Подготовка моделей для оценки инвестиционных проектов (NPV, IRR, DCF и др.) и стоимости бизнеса (EV, Equity Value)
-Анализ и оценка маржинальности контрактов на подряд
-Самостоятельное формирование и составление финансово-экономических моделей по перспективным проектам по запросу руководства.
+Personal Qualities
 
-Аудит и контроль:
+Proactivity and ability to work independently.
+Commitment to code quality, readability, and maintainability.
+Adaptability to a fast-paced, dynamic environment with accountability for deliverables.
 
-Контрактный аудит и анализ доходности: верификация ключевых условий контрактов на подряд по экономической целесообразности и маржинальности
-Внутренний аудит портфельных компаний (выборочно, по мере необходимости): проверка финансово-хозяйственной деятельности, операционной эффективности, контроль отклонений
-Бюджетирование: участие в составлении, контроле и анализе исполнения бюджетов компаний группы
+We Offer
 
-Аналитические и отчетные материалы
+A role in an international Fintech company with growth opportunities.
+Modern tools and influence over architectural decisions.
+Professional development support.
+Competitive salary (discussed during the interview, based on qualifications).
 
-Подготовка аналитических и отчетных материалов для финансового директора и акционеров: записки, презентации, внутренние заключения, рекомендации
+Ready to join? Send your CV, and let’s explore the possibilities!",более 6 лет,Полная занятость,5/2,8,Удалённо,17 мая 2025,https://hh.kz/vacancy/120523505,Не указано,Не указано,2025-05-17
+DevOps Engineer - CNP Processing GmbH (E-Commerce),CNP Processing GmbH,Алматы,Не указано,"Присоединяйтесь к лидеру в сфере E-commerce в Казахстане — CNP Processing GmbH!
 
-Участие в оптимизации финансовой структуры группы
+Мы, швейцарская компания, занимающаяся онлайн-платежами, уже более 15 лет остаемся ведущим игроком на рынке Казахстана, с оборотом 1,5 млрд долларов в прошлом году. Сейчас мы ищем опытного и технически подкованного DevOps инженера, готового стать частью нашей команды и развивать передовые решения в области онлайн-платежей.
 
-Требования:
+Почему стоит работать с нами?
 
-Знание английского (свободно)
-Знание методологии и подходов финансового моделирования
-Опыт работы во внутреннем и/или внешнем аудите
-Уверенное владение Excel, 1С
-Понимание реальной экономики: знание особенностей отраслей и логики их функционирования
-Самостоятельность: способность глубоко погружаться в суть бизнес-моделей и задач",более 6 лет,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120637500,Не указано,от 1000000 ₸,2025-05-16
-HTML/Markup Developer,Andersen,Алматы,Не указано,"The IT company Andersen invites an experienced HTML/Markup Developer from Azerbaijan to join its team for working with a company from Cyprus.
+•⁠ ⁠Карьерный рост и развитие: реализуйте свой потенциал в сфере инновационных онлайн-платежей.
+•⁠ ⁠Ответственные и интересные задачи: занимайтесь решением технически сложных проблем, поддерживая бесперебойную работу наших систем.
+•⁠ ⁠Доступ к передовым технологиям: работайте с новейшими инструментами и технологиями, которые открывают возможности для профессионального роста.
+•⁠ ⁠Поддерживающая корпоративная культура: мы ценим каждый вклад и стремимся к гармонии внутри коллектива, создавая атмосферу для вашего личного и профессионального развития.
+•⁠ ⁠Конкурентоспособные условия труда: мы предлагаем стабильную заработную плату, социальные и пенсионные отчисления, а также возможность получить долю в акциях компании.
 
-The customer is a leading B2B casino and sportsbook platform provider, renowned for its branded gamification engine that enhances player engagement across casino and sports domains. With over 60 brands and licenses in multiple jurisdictions, it offers a universal suite of products and services.
 
-The project is developing a B2B casino and sportsbook platform.
-
-Responsibilities:
-
-Developing the efficient, fast and adaptive layout of interfaces.
-Collaborating with developers and web designers to improve products.
-Introducing ideas, solutions and optimizing existing applications.
-
-Must-haves:
-
-Professional experience as an HTML-coder for 2+ years.
-Excellent knowledge of HTML, CSS.
-Good understanding of UI/UX design and cross-browser layout.
-Strong knowledge of CSS/JS animation.
-Experience working with CSS Pre-Processors: Sass/Less.
-Understanding of web application performance optimization.
-Experience with Figma / Sketch / Photoshop.
-Level of English – from Intermediate and above.
-
-Nice-to-haves:
-
-Understanding of front-end build tools (Gulp, Webpack, etc).
-Knowledge of HTML email templates.
-Experience working with CSS frameworks.
-Experience working with template engines (pug, Handlebars, etc.).
-Experience with Canvas API / WebGL / ThreeJS / GSAP.
-
-Reasons why this job would be interesting to you:
-
-Experience in teamwork with leaders in FinTech, Healthcare, Retail, Telecom, and others. Andersen cooperates with such businesses as Samsung, Siemens, Johnson & Johnson, BNP Paribas, Ryanair, Mercedes, TUI, Verivox, Allianz, T-Systems, etc..
-The opportunity to change the project and/or develop expertise in an interesting business domain.
-Job conditions – you can work both fully remotely and from the office or can choose a hybrid variant.
-Guarantee of professional, financial, and career growth! The company has introduced systems of mentoring and adaptation for each new employee.
-The opportunity to earn up to an additional 1,000 EUR per month, depending on the level of expertise, which will be included in the annual bonus, by participating in the company's activities.
-Access to the corporate training portal, where the entire knowledge base of the company is collected and which is constantly updated.
-Bright corporate life (parties / pizza days / PlayStation / fruits / coffee / snacks / movies);
-Certification compensation (AWS, PMP, etc).
-Referral program.
-English courses.
-Private health insurance and compensation for sports activities.
-
-Your personal data is protected in accordance with GDPR regulations.
-
-Join us!",1–3 года,Полная занятость,5/2,8,На месте работодателя или гибрид,16 мая 2025,https://hh.kz/vacancy/120651233,Не указано,Не указано,2025-05-16
-Trade Marketing Specialist,ТОО АНТАЛ БИЗНЕС РЕШЕНИЯ (ТМ Antal Kazakhstan),Алматы,Не указано,"Обязанности:
-
-Разработка и реализация трейд-активностей
-
-Внедрение и адаптация POS-материалов
-
-Анализ продаж, оценка промо и генерация инсайтов
-
-Поддержка e-commerce проектов
-
-Управление торговым оборудованием
-
-Координация между маркетингом, продажами и партнёрами
-
-Требования:
-
-Высшее образование (маркетинг, экономика, финансы)
-
-2+ года в FMCG (трейд-маркетинг, аналитика, POS и т.п.)
-
-Знание инструментов продаж и маркетинга
-
-Уверенный пользователь Excel и PowerPoint
-
-Английский не ниже уровня - Intermediate",1–3 года,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120637307,Не указано,Не указано,2025-05-16
-Java Backend Developer (Middle/Middle+/Senior),Частная компания Akhter Studios Ltd.,Алматы,Не указано,"Ищем Java Backend Developer уровня Middle/Middle+/Senior в проект по развитию внутренней HRM-системы для FinTech-компании. Проект рассчитан до конца 2025 года.
-
-Формат — онлайн. Полный рабочий день.
-
-Чем предстоит заниматься:
-Разработка и доработка backend-части новых и существующих модулей;
-Работа с микросервисной архитектурой;
-Интеграция с внешними сервисами через Kafka;
-Работа с БД (PostgreSQL, MongoDB, MySQL);
-Участие в процессах CI/CD и контейнеризации (Docker, Kubernetes);
-Взаимодействие с командой аналитиков, QA и DevOps.
-✅ Что важно знать и уметь:
-Must-have:
-Уверенный опыт с Java и Spring Boot;
-Отличное понимание Kafka — обязательно;
-Знание Redis, Docker, Kubernetes;
-Опыт работы с СУБД: PostgreSQL, MySQL, MongoDB — на хорошем уровне;
-Знакомство с ELK — будет плюсом.
-Nice-to-have:
-Опыт интеграции с государственными информационными системами;
-Опыт работы в распределённых командах.
+Ваши обязанности:
+⁠ ⁠Разработка и поддержка инфраструктуры на базе AWS с использованием Terraform и Ansible.
+Управление жизненным циклом контейнеров с помощью Kubernetes и Helm.
+⁠Настройка и оптимизация CI/CD пайплайнов в GitLab CI/CD.
+Работа с базами данных PostgreSQL и Redis, включая их оптимизацию и обеспечение высокой доступности.
+⁠Проектирование и поддержка сетевой инфраструктуры (VPC, подсети, маршрутизация и NAT).
+⁠Обеспечение безопасности инфраструктуры и приложений с соблюдением стандартов PCI DSS.
+Мониторинг производительности с использованием Prometheus и Grafana.
+⁠Диагностика и устранение технических проблем в инфраструктуре и приложениях.
+Мы ищем кандидата с:
+Опыт работы DevOps инженером от 3 лет.
+Глубокие знания Linux и опыт администрирования серверов.
+Уверенные навыки работы с Docker, Kubernetes, Helm, Ansible, GitLab CI/CD.
+⁠Опыт работы с базами данных, такими как PostgreSQL, MongoDB, Redis.
+⁠Знание TCP/IP стека и опыт работы с сетевыми устройствами.
+⁠Понимание принципов безопасности, опыт работы с nginx, haproxy и другими инструментами.
+Знания в области мониторинга, логирования и оповещения (Prometheus, Grafana, OpenSearch, Logstash).
+Опыт работы с Terraform, Ansible и другими инструментами Infrastructure as Code.
+⁠Уверенные навыки в Bash и Python.
+Знание английского на техническом уровне.
+⁠Преимуществом будет опыт с Terraform, Wazuh, Keycloak, Kafka, Cloudflare и облачными платформами (AWS, GCP, Azure).
 Что мы предлагаем:
-Прозрачные процессы, трекинг в Jira, документация в Confluence.
-Поддержка при онбординге, регулярные стендапы и код-ревью.
-Возможность продолжить сотрудничество в других проектах.
-Доступ к системе ""COM"" — бонусы по итогам проекта.
-Адекватный менеджмент, дружелюбная команда и живой рост.",3–6 лет,"Полная занятость
-Возможно временное оформление",5/2,8,Удалённо,16 мая 2025,https://hh.kz/vacancy/120620088,Не указано,Не указано,2025-05-16
-Старший специалист по медиапланированию / Senior media planner,ТОО Okori Central Asia (Окори Сентрал Эйжа),Алматы,Не указано,"Okori (by partner of dentsu) - одна из крупнейших медиа коммуникационных групп в мире.
-
-Okori Media group (partner of dentsu) - международное медийное агентство, представляет услуги коммуникаций и маркетинговых решений (медиапланирование, медиа размещение, баинг, digital размещение) – представительство в Киргизии, Монголии, Грузии, Азербайджане и Таджикистане.
-
-Мы в активном поиске Senior Media Planner.
-
-Обязанности:
-
-Коммуникация с клиентами;
-Составление брифов: понимать нужды клиента и уметь составлять точные брифы для различных отделов компании;
-Работа с медиапланами: создавать и адаптировать медиапланы в соответствии с запросами клиента;
-Организация файлов: поддерживать порядок в сетевых папках компании;
-Взаимодействие с поставщиками: работать с партнерами для производства и адаптации рекламных материалов;
-Управление рекламными кампаниями: контроль запуска кампаний, мониторинг их эффективность и оптимизация при необходимости;
-Регулярная отчетность: подготовка отчетов для клиентов и внутренних нужд компании, в том числе аналитику и рекомендации;
-Участие в тендерах: в подготовке стратегии и тактики;
-Финансовая отчетность: вносить данные в систему управления финансами компании и готовить соответствующие документы;
-Командная работа: участвовать в статус-митингах, распределять задачи внутри команды и сотрудничать с глобальными коллегами.
-
-Требования:
-
-Опыт в рекламных агентствах;
-Знание английского языка не ниже Pre-Intermediate;
-Продвинутое пользование MS Office (Excel, Power Point, Outlook);
-Опыт составления медиапланов;
-Сильные коммуникативные навыки.
-
-Что мы предлагаем:
-
-Официальное трудоустройство;
-Стабильная белая заработная плата 2 раза в месяц;
-График работы 5\2 с 9:00 до 18:00/с 10:00 до 19:00;
-Работа в международной компании с развитой корпоративной культурой;
-Гибридный формат работы после прохождения испытательного срока 3 месяца;
-Современный офис на Атакенте с парковой зоной;
-Работа с крупными международными клиентами;
-Возможность карьерного роста в рамках роли или в смежные подразделения;
-Адаптация и обучение в крутой команде профессионалов, внутренние тренинги и обучения, English club.",1–3 года,Полная занятость,5/2,8,Не указано,16 мая 2025,https://hh.kz/vacancy/120642950,Не указано,Не указано,2025-05-16
-Sales contract manager (Территориальный менеджер),ТОО Нестле Фуд Казахстан,Алматы,Не указано,"Компания Nestle, мировой лидер в производстве продуктов питания, ищет Sales contract manager в г. Алматы.
-
-Ты будешь:
-
-заниматься выполнением плановых ключевых показателей по объему продаж, дистрибуции и прибыльности;
-воплощать Стандарты Мерчандайзинга Компании на закрепленной территории;
-регулярно проводить анализ качественных и количественных показателей для формирования дальнейших действий;
-давать рекомендации и контролировать дистрибьютора по стандартам Компании, стратегии развития и выполнению KPI;
-проводить еженедельные встречи с торговой командой;
-посещать торговые точки совместно с торговой командой дистрибьютора на предмет соблюдения стандартов и эффективности оказываемых услуг;
-заниматься проведением аудиторного и «полевого» обучения команды дистрибьютора.
-
-Мы ожидаем:
-
-навыки ведения успешных переговоров и успешной презентации;
-знание Клиентов с точки зрения особенностей рынка, текущей ситуации, результатов и стратегии развития;
-знание и навыки эффективных продаж;
-базовые знания и навыки финансового анализа (прибыль на инвестируемый капитал (ROI), прибыльность клиента);
-отличные коммуникационные способности и навыки эффективно строить личные отношения между подразделениями, как внутри, так и вне компании Nestlé;
-способность к самостоятельной работе;
-опыт работы в постоянно меняющейся обстановке, в том числе кризисных и стрессовых ситуациях;
-умение работать в кросс-функциональных командах;
-способность решать новые нестандартные задачи.
-
-Мы предлагаем:
-
-возможность лидировать уникальные проекты в области продаж;
-дружелюбная атмосфера и культура открытости к новым идеям;
-официальное оформление в соответствии с законодательством РК;
-
-привлекательный социальный пакет (ДМС, страхование жизни, дотация на питание, оплата услуг мобильной связи, корпоративный автомобиль и предоставление других льгот в соответствии с правилами компании);
-
-уютное офисное пространство, оснащенное всем необходимым в г. Алматы.",3–6 лет,Полная занятость,5/2,8,Не указано,16 мая 2025,https://hh.kz/vacancy/120626788,Не указано,Не указано,2025-05-16
-Программист AI,ТОО WSE,Алматы,Не указано,"Обязанности:
-Разработка программного обеспечения;
-Поддержка существующего программного обеспечения;
-Требования:
-Опыт работы в сфере IT не менее 2 лет;
-Хорошие знания и практические навыки разработки на языках C++ 11/17 и Python;
-Опыт коллективной разработки ПО;
-Знание и опыт применения основных подходов в разработке нейронных сетей;
-Опыт работы с библиотеками OpenDNN, OpenVino
-Знание фреймворка Qt, библиотеки STL;
-Опыт работы с системами сборки CMake, Qmake;
-Высшее образование соответствующей квалификации",1–3 года,Полная занятость,5/2,8,Не указано,16 мая 2025,https://hh.kz/vacancy/119967483,Не указано,Не указано,2025-05-16
-Старший бухгалтер,ТОО AVC Group,Алматы,Не указано,"Обязанности:
-Постановка и ведение бухгалтерского учета компании в соответствии с законодательством о бухгалтерском учете.
-Обеспечение порядка проведения инвентаризации и оценки имущества и обязательств. Обеспечение правильности оформления хозяйственных операций, соблюдение порядка документооборота, технологии обработки учетной информации и ее защиты от несанкционированного доступа.
-Формирование информационной системы бухгалтерского учета и отчетности в соответствии с требованиями бухгалтерского, налогового, статистического и управленческого учета.
-Составление и предоставления отчетов в налоговые органы, органы статистики, нац. банк и иные отчеты, по требованию ЗРК.
-Обеспечение своевременного и точного отражения в учете хозяйственных операций, движения активов, формирования доходов и расходов, выполнения обязательств.
-Контроль за соблюдением порядка оформления первичных учетных документов.
-Учет затрат на производство, ведение учета по проектам, учет по центрам ответственности и егментам деятельности.
-Обеспечение своевременного перечисления налогов и сборов, платежей в кредитные организации, погашение задолженностей. Контроль за расходованием фонда оплаты труда, организацией и правильностью расчетов по оплате труда работников, проведением инвентаризаций, порядком ведения бухгалтерского учета, отчетности, а также проведением документальных ревизий в подразделениях организации.
-Финансовый анализ и формирование налоговой политики на основе данных бухгалтерского учета и отчетности.
-Обеспечение соблюдения финансовой и кассовой дисциплины, смет расходов, законности списания со счетов бухгалтерского учета недостач, дебиторской задолженности и других потерь.
-Обеспечение сохранности бухгалтерских документов.
-Работа с банком, ведение наличных и безналичных расчетов.
-
-Требования:
-
-Законодательство о бухгалтерском учете;
-Опыт оспаривания действий налоговых и иных государственных органов, в т.ч.
-Опыт успешного прохождения налоговых проверок основы гражданского права;
-Финансовое, налоговое и хозяйственное законодательство;
-Нормативные и методические документы по вопросам организации бухгалтерского учета и составления отчетности, хозяйственно-финансовой деятельности организации;
-Положения и инструкции по организации бухгалтерского учета, правила его ведения;
-Профиль, специализацию и структуру организации, стратегию и перспективы ее развития;
-Налоговый, статистический и управленческий учет;
-Порядок оформления бухгалтерских операций и организации документооборота по участкам учета, списания со счетов бухгалтерского учета недостач, дебиторской задолженности и других потерь, приемки, оприходования, хранения и расходования денежных средств, товарно-материальных и других ценностей, проведения аудиторских проверок;
-Формы и порядок финансовых расчетов;
-Условия налогообложения юридических и физических лиц;
-Правила проведения инвентаризаций денежных средств товарно-материальных ценностей, расчета с дебиторами и кредиторами, проведения проверок и документальных ревизий;
-Порядок и сроки составления бухгалтерского баланса и отчетности;
-Современные справочные и информационные системы в сфере бухгалтерского учета и управления финансами;
-Методы анализа финансово-хозяйственной деятельности организации;
-Правила хранения бухгалтерских документов и защиты информации;
-Трудовое законодательство.
-
-Условия:
-
-Конкурентная заработная плата;
-График 5/2, с 9-00 до 18-00;
-Трудоустройство согласно ТК РК;
-Социальный пакет;
-Обучение за счет компании;
-Премирование по итогам работы за год.",более 6 лет,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120621633,Не указано,Не указано,2025-05-16
-Бизнес-аналитик,ТОО Техинвест проект,Алматы,Не указано,"Обязанности:
-Анализ данных для поиска проблем и точек роста.
-Сопровождение разработки: от постановки задач до проверки результата.
-Самостоятельная постановка аналитических задач в условиях неопределённости, при отсутствии чётких целей, неполной информации или ограниченного доступа к данным и инструментам.
-Сбор, анализ и формализация бизнес-требований от внутренних и внешних заказчиков
-Анализ и оптимизация текущих бизнес-процессов
-Постановка задач разработчикам, контроль сроков и качества выполнения
-Ведение коммуникации между бизнесом и ИТ
-Поддержка пользователей на этапе внедрения решений и при дальнейшей эксплуатации
-Построение автоматизированных отчетов и дашбордов для мониторинга ключевых показателей
-Требования:
-Опыт работы бизнес-аналитиком от от 1 до 3 лет
-Уверенное владение SQL (для анализа данных и построения выборок).
-Владение BI-инструментами: Power BI, Tableau, Looker, Metabase или другие
-Знание методологий описания бизнес-процессов
-Умение формулировать и структурировать требования, составлять диаграммы, блок-схемы
-Опыт подготовки технической документации (ТЗ, требования, описания процессов)
-Умение работать с большим объемом информации и соблюдением сроков
-Знание теории вероятностей и математической статистики для разработки моделей
-Знание Excel/Google Sheets на продвинутом уровне (формулы, сводные таблицы, визуализация)
-Высшее образование
-Знание языков программирования (Python и др.) — будет плюсом, но не обязательно
-Условия:
-Интересные и амбициозные задачи, связанные с аналитикой, мат. расчетами.
-Возможности для профессионального развития и карьерного роста.
-Современные инструменты и технологии для работы с данными.
-Конкурентную заработную плату и социальный пакет.
-Большой и комфортный офис;
-Развозка;
-Приобретение навыков в процессе выполнения обязанностей и во время обучения на рабочем месте;",1–3 года,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120624235,Не указано,Не указано,2025-05-16
-Финансовый менеджер,ИП CAREER.KZ,Шымкент,"от 700 000 ₸ за месяц, на руки","Обязанности:
-
-Финансовое планирование и бюджетирование:
-
-Подготовка годового и месячного бюджета
-
-Сравнение фактических доходов и расходов с планом
-
-Анализ и планирование капитальных вложений
-
-Управление денежными потоками (Cash Flow):
-
-Ежедневный контроль поступлений и расходов денежных средств
-
-Формирование финансовых резервов
-
-Контроль баланса между наличностью и счетами
-
-Отчетность и аналитика:
-
-Подготовка финансовой отчетности (баланс, отчет о прибылях и убытках, отчет о движении денежных средств)
-
-Мониторинг ключевых показателей эффективности (KPI)
-
-Подготовка аналитических отчетов для руководства.
-
-Налоговое планирование и контроль:
-Отслеживание изменений в налоговом законодательстве
-Требования:
-
-Высшее экономическое/финансовое образование
-
-1С, ERP, СRM
-
-Умение строить финансовые модели (бизнес плана)
-
-Знание налогового кодекса, законодательства
-
-Знание языков: русский/казахский (обязательно)
-
-Условия:
-Официальное трудоустройство в рамках ТК РК
-график работы: 5/2, с 09-00 до 18-00
-Заработная плата + KPI,
-13 я зарплата или премия по итогам финансового года (1-3 млн)
-Курорты местные, мат помощи по семейным обстоятельствам, абонемент на фитнес клуб частично или полное.",более 6 лет,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120624981,Не указано,от 700000 ₸,2025-05-16
-Экономист планово-экономического отдела,АО Aitas KZ,Макинске,Не указано,"ТОО ""Макинская Птицефабрика"" приглашает на работу экономиста.
-
-Основная задача – моделирование в Excel, сбор, обработка и анализ информации производственной и дистрибуционной деятельности компании (формирование сквозной себестоимости, анализ и прогноз продаж, расчеты по эффективности).
-
-Ожидаемый результат – корректное финансово-экономическое планирование, достоверный план-фактный анализ, достоверные экономические расчеты.
-
-Ключевые обязанности:
-
-Моделирование в Excel.
-Подготовка презентаций Power Point.
-Своевременная подготовка внутренних оперативных данных, управленческих отчетов руководству Предприятия и руководителям подразделений, в том числе по их запросу.
-Оценка экономической эффективности.
-Нормирование затрат.
-Составление калькуляций.
-Требования:
-
-Высшее образование. Специальность: Экономист, Финансист. Аналитик
-
-Знание основ бух. учета. Навыки бюджетирования, построения прогнозов
-
-Навыки анализа фин-хоз. деятельности (анализ ОПИУ, ДДС, Баланса) и анализ экономической эффективности.
-Опыт работы в области финансов, экономики предприятия – приветствуется, выпускники ВУЗ.
-Продвинутый уровень MS EXCEL, MS POWER POINT, 1C.
-
-Профессиональные качества (hard skills):
-
-Способность к обучению,
-Системность мышления,
-Стремление к изучению новых методов и подходов к работе.
-Аккуратность при подготовке расчетов и информации (низкий процент ошибок).
-Скорость выполнения поставленных задач.
-
-Личностные качества (soft skills): ​​​​​​​
-
-Умение работать в команде.
-Любознательность и желание развиваться, учиться.
-Ответственность.
-Коммуникабельность.
-Скрупулезность.
-Эмоциональная стабильность и стрессоустойчивость.
-Условия:
-Высокая и своевременная выплата заработной платы до 10-го числа ежемесячно на карточки Халык банка;
-Официальное оформление в штат компании;
-График работы: 5/2
-Оплата больничных и отпускных;
-Премии, бонусы, материальная помощь;
-Доставка до места работы и обратно;
-Дружный коллектив.",1–3 года,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/118470000,Не указано,Не указано,2025-05-16
-Sales Development Manager Export,ТОО Нестле Фуд Казахстан,Алматы,Не указано,"Компания Nestle, мировой лидер в производстве продуктов питания, ищет менеджера по развитию продаж в экспортных странах в г. Алматы.
-
-Ты будешь:
-
-отвечать за определение, выбор и развитие дистрибьюторов на закрепленной территории;
-составлять ежегодные бизнес–планы, нацеленные на развитие продаж и дистрибьюции, также контролировать складских запасов совместно с дистрибуторами;
-готовить регулярные прогнозы продаж и планов по развитию дистрибуции продукции Компании во всех каналах продаж;
-разрабатывать рекомендации для персонала дистрибьюторов по годовым и месячным планам продаж, дистрибуции, мерчандайзингу, развитию клиентской базы, по специальным целям и задачам;
-поддерживать эффективные взаимоотношения c ключевыми розничными клиентам;
-осуществлять полевые визиты на закрепленной территории для оценки уровня представленности продукции Компании на рынке и для разработки рекомендаций по улучшениям;
-организовывать и обеспечивать реализацию рекламных кампаний и программ по мерчандайзингу на закрепленной территории, планирование и проведение локальных Промо мероприятий, рекламных акций в соответствие со стратегией и стандартами Компании;
-координировать и контролировать эффективное целевое использование бюджетов, направленных на развитие дистрибуции, мерчандайзинга и объемов продаж.
-
-Мы ожидаем:
-
-навыки маркетингового планирования;
-навыки взаимодействия с партнерами и клиентами;
-3-летний опыт работы в продажах;
-навыки ведения успешных переговоров и успешной презентации;
-знания и навыки по управлению финансами;
-знание Клиентов с точки зрения особенностей рынка, текущей ситуации, результатов и стратегии развития;
-базовые знания и навыки в логистике (управление складами и транспортными потоками);
-базовые знания и навыки финансового анализа (прибыль на инвестируемый капитал (ROI), прибыльность клиента);
-опыт управления портфелем продукции;
-опыт анализа и планирования торговой деятельности розничного или оптового клиента;
-умение управлять изменениями;
-способность решать новые нестандартные задачи;
-умение работать в кросс-функциональных командах;
-отличные личностные лидерские и коммуникативные навыки.
-
-Мы предлагаем:
-
-возможность лидировать уникальные проекты в области развития продаж;
-дружелюбную атмосферу и культуру открытости к новым идеям;
-официальное оформление в соответствии с законодательством РК;
-
-привлекательный социальный пакет (ДМС, страхование жизни, дотация на питание, оплата услуг мобильной связи и предоставление других льгот в соответствии с правилами компании).",3–6 лет,Полная занятость,5/2,8,Не указано,16 мая 2025,https://hh.kz/vacancy/120627043,Не указано,Не указано,2025-05-16
-Главный бухгалтер Департамента бухгалтерского учета и отчетности,"HALYK FINANCE, дочерняя организация АО Народный банк",Алматы,Не указано,"Главный бухгалтер Департамента бухгалтерского учета и отчетности АО ""Halyk Finance""
-
-Обязанности:
-Руководство деятельностью Департамента
-Организация бухгалтерского учета финансово-хозяйственной деятельности
-Определение содержания и объема функциональных обязанностей работников Департамента, и обеспечение соблюдения ими исполнительской и трудовой дисциплины
-Разработка учетной и налоговой политики, методологических процедур бухгалтерского учета и актуализация их в случае необходимости
-Организация процесса бюджетирования, составления сводного бюджета, своевременного согласования и утверждения бюджета
-Организация проведения анализа бюджета на предмет соответствия плановых и фактических данных, составления и предоставления отчетов по исполнению бюджета руководству
-Осуществление консолидации финансовой отчетности,
-Формирование регуляторной, статистической отчетности,
-Работа с внешними аудиторами в вопросах аудита и соответствия МСФО,
-Формирование и представление отчетности в головную организацию
-Осуществление учета краткосрочных, долгосрочных инвестиций и источников финансирования
-Знание налогового учета, сдача форм: 100.00 , 101.01, 101.04, 200.00, 200.03, 300.00, 700.00, 701.00, 701.01, 870.00, 871.00
-Предоставление регуляторной отчетности в АРРФР и НБ РК
-Предоставление статистической отчетности 1-Т, 2-МП, 1-ПБ, 10-ПБ, 1-ПФ
-Предоставление финансовой отчетности в МФЦА, Казахстанскую фондовую биржу
-Предоставление финансовой отчетности в депозитарий финансовой отчетности
-
-Требования:
-
-Наличие законченного высшего образования (финансовое, экономическое)
-Опыт работы не менее 3 (трех) лет в финансово-банковской/ инвестиционной сфере в связи с необходимым согласованием кандидатуры в Агентстве РК по регулированию и развитию финансового рынка
-Приветствуется наличие сертификатов CAP, CIPA, DipIFR
-Наличие сертификата профессионального бухгалтера РК
-Знание всех участков бухгалтерского учета, отличное знание Excel, опытный пользователь 1С и ЗУП
-Обязательное знание МСФО, опыт работы с внешними аудиторами
-Знание налогового учета, сдача форм: 100, 101.01, 101.02,101.04, 200.00, 200.03, 300.00, 700.00, 701, 701.01, 870.00, 871.00
-Знание учета ценных бумаг и других финансовых инструментов, налогообложения доходов от ценных бумаг и других финансовых инструментов
-Опыт сдачи регуляторной отчетности в АРРФР и НБ РК
-Опыт формирования статистической отчетности 1-Т, 2-МП, 1-ПБ, 10-ПБ, 1-ПФ
-Опыт формирования финансовой отчетности в МФЦА, Казахстанскую фондовую биржу
-Опыт формирования финансовой отчетности в депозитарий финансовой отчетности
-
-Условия:
-
-график 5/2, с 09-18ч
-удаленной работы нет!
-обучение за счет Работодателя
-ЗП обсуждается на собеседовании
-годовая премия (13 зарплата)
-бонусы по итогам года",более 6 лет,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/119547125,Не указано,Не указано,2025-05-16
-Бизнес-аналитик,АО Группа компаний Аллюр. Розничная сеть,Алматы,Не указано,"Обязанности:
-Выявление и определение потребностей бизнеса, формирование бизнес-требований, написание user stories;
-Сбор, анализ и интерпретация данных для оценки бизнес-процессов и показателей эффективности компании;
-Проведение анализа бизнес-процессов AS-IS и формирование гипотез для TO-BE;
-Проектирование и доработки CJM;
-Проведение анализа данных, выявление тенденций, паттернов и нестандартных явлений для выявления возможностей и проблем;
-Идентификация ключевых показателей производительности, создание метрик и моделей для измерения и мониторинга результатов;
-Планирование поставленных задач, включая их приоритезацию, контроль сроков и качества их исполнения;
-Формирование проектной и технической документации.
-Требования:
-Опыт работы в сфере бизнес-аналитики и менеджмента от 3-х лет;
-Аналитическое мышление и способность видеть картину в целом;
-Умение анализировать и декомпозировать сложные задачи и находить эффективные и результативные решения;
-Способность видеть связи между данными и бизнес-процессами;
-Понимание основ статистики, принципов и методов анализа данных;
-Знание нотации BPMN, UML;
-Знание Jira, Confluence, draw.io, Figma, Miro;
-Знание SQL будет плюсом;
-Уверенный пользователь пакета программ Microsoft Office;
-Английский на уровне не ниже Intermediate;
-Владение навыками деловой переписки;
-Владение навыками работы с большим объемом информации;
-Организационные навыки и способность управлять проектами;
-Ответственность и самостоятельность;
-Умение работать в команде.
-Условия:
-Работа в крупной автомобильной компании;
-Надежный работодатель, лидер на рынке РК;
-График работы: 5/2 с 09:00 до 18:00;
-Адрес: г. Алматы, пр. Суюнбая 159 А;
-Официальное трудоустройство;
-Сильная и дружная команда;
-Карьерный рост;
-Оплачиваемый трудовой отпуск;
-Подарки детям сотрудников на Новый год и 1 июня;
-Корпоративный канал Allur, конкурсы и викторины;
-Программа по адаптации и подарочный боксы для новеньких сотрудников;
-Корпоративные мероприятия;
-Программа лояльности от компании партнеров (скидки в фитнесс залы, магазины, заведения и т.п.);
-Возможность путешествии по программе ""Мой Казахстан"" и обмен опыта.
-Корпоративный канал Allur, конкурсы и викторины, праздничные мероприятия;
-Возможен карьерный рост.",3–6 лет,Полная занятость,5/2,8,Не указано,16 мая 2025,https://hh.kz/vacancy/120641974,Не указано,Не указано,2025-05-16
-Веб-аналитик,"AIR ASTANA, АО",Алматы,Не указано,"Обязанности:
-
-Выстраивание веб- и мобильной аналитики (Google Analytics 4, Amplitude, Firebase).
-Подготовка ТЗ для фронтенда (DataLayer) и бэка (Measurement Protocol), постановка событий, валидация данных.
-Кроссплатформенный анализ: связывание данных между вебом и нативными приложениями.
-Работа с BigQuery: создание витрин, написание SQL-запросов.
-Визуализация данных: Power BI, Looker Studio, Hotjar.
-Оптимизация воронки продаж, анализ поведения пользователей, сложной корзины, путей пользователей.
-
-Требования:
-
-Опыт 2-4 года в e-commerce/digital-аналитике.
-Знание JavaScript, понимание работы платежных сервисов, фронта и бэка.
-Уверенная работа с SQL, BigQuery, GA4, Amplitude, Firebase, Hotjar.
-Опыт настройки GTM, Meta Pixel, Google Ads Conversions.
-Плюсом будет Python для автоматизации.
-
-Личные качества:
-
-Аналитический склад ума, системное мышление.
-Умение работать с техническими командами и ставить задачи разработчикам.
-
-Мы предлагаем:
-
-Скидки на авиабилеты на вас и двух родных до 90% в неограниченном количестве
-Медицинская страховка
-Скидки на гостиницы, рестораны, фитнес залы
-Услуги психолога
-Индексация заработной платы раз в год
-Офис находится по адресу Достык 38",1–3 года,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120637746,Не указано,Не указано,2025-05-16
-Аналитик по расчету KPI (HR аналитик),"ТОО EUROPHARMA, ТМ (ТОО AK NIET GROUP)",Астана,"от 400 000 до 450 000 ₸ за месяц, на руки","AQ NIET GROUP – казахстанская группа компании управляющая портфелем брендов в сфере ритейла и дистрибуции. Включает сеть фармсторов Europharma, Arzan mart, онлайн-маркетплейс Е-mart. Также в нашу группу входят сеть магазинов Meloman, Marwin, Injoy.
-
-Наша компания дает большие возможности для продвижения и роста внутри группы. Присоединяйтесь к команде, которая открывает и развивает самый важный ресурс компании - людей.
-
-Что конкретно предстоит делать:
-
-Разработать набор ключевых показателей эффективности для мониторинга эффективности всех функций компании;
-Разрабатывать индивидуальные панели мониторинга (KPI);
-Создавать и отслеживать соответствующие ключевые показатели эффективности для руководителей различных проектов своевременно и последовательно (ежемесячно и ежеквартально);
-Интерпретировать данные и анализировать результаты с целью предоставления ключевой бизнес-информации и рекомендаций по улучшению;
-Работа с руководителями отделов и другими внутренними партнерами, чтобы понять цели и особенности их конкретных направлений деятельности;
-Ведение, разработка, улучшение и автоматизация отчетов;
-Создавать стандартизированные отчеты, связывающие корпоративные KPI с программой KPI для команд и отделов;
-
-На что мы смотрим при выборе кандидата:
-
-Эффективные коммуникативные навыки, способность поддерживать прочные и длительные отношения на всех уровнях организации;
-Большой опыт в обработке и консолидации больших объемов сложных данных/баз данных;
-Особое внимание к деталям и точность в работе;
-Опыт работы с системами KPI и управления эффективностью на стратегическом уровне;
-
-Что мы предлагаем:
-
-График работы 5/2, с 09:00-18:00;
-Трудоустройство согласно ТК РК;
-
-Карьерный рост в успешной компании;
-
-Современный и удобно расположенный офис по адресу: район Есиль, улица Сығанақ 60/4. БЦ Abu Dhabi Plaza.",1–3 года,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120540697,Не указано,400000-450000 ₸,2025-05-16
-Site Planner,ТОО КомплектСтройДеталь,Атырау,"от 500 000 ₸ за месяц, на руки","Key Responsibilities:
-
-Develop and maintain the construction project execution plan using Primavera P6 based on WBS and BoQ.
-
-Assign resources, develop a detailed resource profile, and track progress using progress measurement tools and S-curves.
-
-Maintain the master execution and construction schedule, ensuring alignment with daily and weekly production goals.
-
-Collaborate with site supervisors, project engineers, and contractor planning teams to integrate and coordinate schedules.
-
-Analyze project progress and critical path, identify risks, and propose mitigation strategies.
-
-Conduct daily/weekly reporting and prepare visual dashboards in Power BI.
-
-Lead weekly lookahead meetings to assess readiness for critical path activities.
-
-Ensure compliance with HSSE and quality procedures on site.
-
-Required Qualifications:
-
-Minimum 3 years of experience in major industrial or construction projects.
-
-Degree or diploma in Engineering, Project Management, Project Controls, or a related technical field.
-
-Proven hands-on experience with Primavera P6, Excel, and Power BI.
-
-Strong analytical, organizational, and communication skills.
-
-Fluency in English (Kazakh and/or Russian is an advantage).
-
-Ability to work in multinational environments and remote field conditions.
-
-What We Offer:
-
-Participation in large-scale, technically challenging projects.
-
-Competitive salary and benefits.
-
-Opportunities for professional growth and development.
-
-Supportive team and a safety-first culture.
-
-Long-term employment with rotation or site-based options.",3–6 лет,Полная занятость,5/2,8,На месте работодателя или разъездной,16 мая 2025,https://hh.kz/vacancy/120632652,Не указано,от 500000 ₸,2025-05-16
-Аналитик по закупкам / Категорийный менеджер,ТОО Сеть магазинов цифровой и бытовой техники ДНС КАЗАХСТАН,Астана,"от 300 000 до 380 000 ₸ за месяц, на руки","В товарном направление ""Смартфоны, ТВ и Аудио"" открыта вакансия на должность менеджера по закупкам / категорийного менеджера.
-
-Задачи:
-
-Формирование и управление ассортиментом.
-Ценообразование и реализация ценовой стратегии.
-Разработка и внедрение маркетинговых акций для стимулирования продаж.
-Закупка и поддержание оптимального уровня товарных запасов.
-Анализ ключевых экономических показателей и оптимизация издержек.
-Мониторинг рынка и конкурентов.
-Управление контрактами с поставщиками, переговоры по условиям сотрудничества.
-Анализ ликвидности товаров и поддержание уровня оборачиваемости.
-Оценка эффективности категорий и внесение предложений по их улучшению.
-
-Требования:
-
-Развитые аналитические способности и стратегическое мышление.
-Знание Excel (ВПР, сводные таблицы) и опыт работы с аналитическими инструментами.
-Ориентация на достижение целей и способность принимать решения в условиях неопределенности.
-Грамотная устная и письменная речь.
-Знание 1C, SQL, BI-систем будет преимуществом.
-Опыт управления ассортиментом, ценообразованием и закупками так же будет преимуществом
-Готовность к обучению и желанию расти и развиваться в компании.
-
-Условия:
-
-Мы предлагаем работу в одном из лидеров рынка цифровой и бытовой техники в России, где ценится стремление к росту и развитию. Вас ждут:
-
-Официальное трудоустройство, белая зарплата с выплатой дважды в месяц.
-Дружный коллектив, современные технологии и возможность карьерного роста.
-Отсутствие строгого дресс-кода.
-
-В сопроводительном письме укажите, каким из требований вы соответствуете.",не требуется,Полная занятость,5/2,8,Не указано,16 мая 2025,https://hh.kz/vacancy/120637088,Не указано,300000-380000 ₸,2025-05-16
-Системный администратор - Аналитик 1С,ТОО Научно-производственная фирма Пружина,Костанай,"от 350 000 ₸ за месяц, на руки","Обязанности:
-Разработка и поддержка в актуальном состоянии структуры критериев оценки эффективности моделируемых бизнес- процессов и функций.
-Подготовка планов работ по анализу и оптимизации бизнес - процессов.
-своевременное предоставление достоверной информации, касающейся анализа протекающих в организации бизнес- процесса.
-Требования:
-Знание конфигурации 1 С: ЕRP в части управленческого учета, знание блока регламентированного учета
-Условия:
-Оформление согласно ТК РК
-Бесплатное питание
-Развоз",1–3 года,Полная занятость,5/2,8,Удалённо,16 мая 2025,https://hh.kz/vacancy/117938742,Не указано,от 350000 ₸,2025-05-16
-Системный аналитик DWH,АО Народный банк Казахстана. IT,Алматы,Не указано,"Обязанности:
-Сбор и анализ требований бизнес-заказчика
-исследование данных на источнике и в хранилище
-разработка требований и постановка задачи по загрузке данных в хранилище
-тестирование, разработка тех.задания на создание отчетов
-сопровождение и консультации бизнес-заказчика в процессе приема результатов.
-Требования:
-математическое/техническое образование;
-опыт работы в проектах по DWH не менее 3-х лет;
-хорошие коммуникативные навыки, работа в команде;
-хорошее знание с SQL, PL/SQL;
-опыт системного анализа данных на источнике, в хранилище
-Условия:
-
-•Заработная плата и бонусы: конкурентоспособная оплата труда благодаря системе грейдирования, премии ко Дню Независимости и годовой бонус.
-•Социальный пакет: ДМС и страхование жизни, мобильная связь и скидки от партнеров.
-•Отпуск и отдых: 26 дней отпуска с возможностью взять дополнительные дни при наступлении важных событий.
-•Бонусы за рекомендации.
-•Рабочие условия: льготные условия на паркинг, свободный стиль одежды (smart casual).
-•Обучение и развитие: тренинги, вебинары и доступ к корпоративной библиотеке, четкая система карьерного роста.
-•Корпоративная культура: открытая и дружеская рабочая атмосфера, спортивные турниры и активная корпоративная жизнь.
-•Инициативы и проекты: возможность участия в социальных проектах, реализация идей в новых проектах группы «Halyk» с использованием современных digital-инструментов.
-•Команда: творческая и поддерживающая команда для реализации ваших идей.
-Присоединяйтесь к нам и становитесь частью команды «Halyk»!",1–3 года,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120626399,Не указано,Не указано,2025-05-16
-Финансовый аналитик,ТОО Saktaz Beverages,Алматы,"от 500 000 до 1 000 000 ₸ за месяц, на руки","В ваши обязанности будет входить:
-
-Подготовка бюджетов, планов продаж, прогнозов по выручке и прибыли.
-Анализ выполнения планов продаж и эффективности скидочной политики.
-Проверка и подтверждение компенсаций по ретро-бонусам и маркетинговым активностям.
-Перевыставление маркетинговых затрат поставщикам и контроль маркетинговых бюджетов.
-Составление управленческой отчетности (P&L, Баланс, ДДС).
-Ведение и контроль исполнения платежного календаря.
-Мониторинг дебиторской и кредиторской задолженности.
-Обеспечение точности и актуальности данных в системах учета (1С, Power BI).
-Консолидация и анализ отчетности дочерних компаний.
-Подготовка финансовых моделей для новых проектов.
-Участие в разработке KPI для подразделений.
-Оценка и минимизация финансовых рисков.
-Консультирование руководства по вопросам прибыли и налогообложения.
-
-Мы ожидаем от вас:
-
-Опыт работы финансовым аналитиком от 2 лет.
-Знание методов финансового анализа и планирования.
-Уверенное владение управленческим учетом, бюджетированием и отчетностью (P&L, Cash Flow, Баланс).
-Опыт работы с программами: 1С (все модули), Power BI, Excel на продвинутом уровне.
-Умение оценивать инвестиционные проекты и эффективность бизнес-процессов.
-Навыки взаимодействия с внутренними и внешними контрагентами.
-
-Мы предлагаем:
-
-Официальное оформление, согласно ТК РК, оплачиваемый отпуск 24 дня, полный соц. пакет
-Своевременная выплата заработной платы
-Работа в динамично развивающейся компании
-Обучение за счет компании
-Тренинги и тимбилдинги со специалистом
-Прогрессивное руководство со свежими взглядами
-Молодая и дружная команда
-Скидки на продукцию",3–6 лет,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120651010,Не указано,500000-1000000 ₸,2025-05-16
-Аналитик данных (Middle+),ТОО BP Contact,Алматы,"от 400 000 до 600 000 ₸ за месяц, на руки","Компания BP contact - быстрорастущая IТ компания в городе Алматы. Мы накопили большой опыт в области автоматизации бизнес-процессов, внедрения IT систем и контакт-центров. Наши партнеры — это крупные компании на рынке, с которыми мы работаем рука об руку.
-
-Специализируемся на разработке человекоподобных голосовых и чат-роботов, а также на внедрении контакт-центров. Приоритетные сферы: здравоохранение, ритейл, транспортный сектор и другие отрасли.
-
-Сейчас мы находимся в поиске Middle+ аналитика данных для работы с контактным центром, телепатронажем и голосовыми/чат-ботами. Ваша работа будет направлена на анализ данных, оптимизацию процессов и повышение эффективности взаимодействия с пользователями.
-
-Обязанности:
-
-Сбор и анализ данных
-Анализ работы голосовых и чат-ботов, контактного центра и телепатронажа.
-Оценка эффективности ботов (конверсия, вовлеченность, точность ответов).
-Выявление трендов и паттернов поведения пользователей.
-Оптимизация и улучшение работы ботов
-Анализ сценариев взаимодействия пользователей с ботами.
-Разработка рекомендаций по улучшению функционала ботов.
-Тестирование новых функций и сценариев.
-Работа с техническими инструментами
-Создание отчетности, дашбордов и визуализаций данных.
-Анализ данных из логов ботов, CRM-систем и других источников.
-Использование SQL для извлечения и обработки данных.
-Мониторинг и отчетность
-Подготовка регулярных отчетов для внутренних и внешних заинтересованных сторон.
-Анализ обратной связи от пользователей и выявление областей для улучшения.
-Автоматизация процессов
-Настройка автоматизированного сбора и анализа данных.
-Обеспечение качества данных, их обработка и очистка.
-
-Требования:
-
-Опыт работы:
-
-От 3 лет в области анализа данных.
-
-Ключевые навыки:
-
-Анализ данных с использованием SQL, Excel, Power BI, Tableau.
-Создание отчетности, дашбордов и визуализаций.
-Знание статистических методов анализа данных.
-Опыт работы с базами данных и системами хранения данных.
-Желателен опыт работы в медицине, телекоммуникациях.
-
-Технические навыки:
-
-Уверенное владение SQL, Excel, Power BI, Tableau.
-
-Что мы предлагаем:
-
-Классную дружную команду;
-
-Комфортный офис;
-
-Квартальные бонусы по результатам работы;
-
-Официальное оформление, оплачиваемый отпуск, тимбилдинги.
-
-График на выбор: 5/2 9:00-18:00 / 10:00-19:00;
-
-Профессиональный рост до Хэда команды аналитиков.
-
-Будем рады видеть Вас в нашей команде!",3–6 лет,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120647402,Не указано,400000-600000 ₸,2025-05-16
-Жеке кредиттік менеджер (Премьер банкинг) / Персональный кредитный менеджер (Премьер банкинг),АО ForteBank,Алматы,Не указано,"ForteBank дегеніміз не?
-
-күшті адамдар жиналатын орын;
-Қазақстанның ТОП-5 жетекші банктерінің қатарына кіреді;
-банк қызметі нарығында 20 жылдан астам уақыт бойы қызмет көрсетеді;
-шамамен 4000 қызметкері бар;
-еліміз бойынша 20 филиалы бар.
-
-Міндеттер:
-
-- Келіссөздер жүргізу, жаңа клиенттерді іздестіру және тарту;
-
-- Әрекеттегі клиенттерге ПББ кредиттік өнімдері бойынша кеңес беру;
-
-- Қарыз алуға өтініштер қабылдау, кредиттік өтінімдерді тіркеу және жасау;
-
-- Мәселелерді УО қарауына шығару, оның ішінде ПББ клиенттеріне кредиттік қарыздар беру;
-
-- Берілген қарыздар бойынша ерекше талаптарды бақылау және орындау;
-
-- Берілген қарыздардың уақтылы өтелуіне ай сайынғы мониторинг жүргізу;
-
-- Ақпараттың құпиялылығын сақтау.
-
-Талаптар:
-
-- Жоғары қаржы/экономикалық білім;
-
-- Банктегі жұмыс тәжірибесі;
-
-- Мамандығы бойынша жұмыс тәжірибесі: 3 жылдан астам уақыт;
-
-- Клиентермен жұмыс істей отырып, олардың бабын таба білу. Келіссөздер жүргізу, стандарттан тыс мәселелер мен міндеттерді шешу;
-
-- Ақпаратты талдау және құрылымдау, объективті қорытынды жасай білу;
-
-- Кредиттік ұсыныстар мен жобалар жазу;
-
-- ҚР заңнамасын, оның ішінде қаржы-кредит саласындағы ҚР ҰБ НҚА білу;
-
-- Банктің кредит құралдары мен процестерін білу;
-
-- Қаржылық талдау жасай білу (ЖТ, ЖК, ЖШС);
-
-- Қазақ және орыс тілдерін, сондай-ақ ағылшын тілін «Upper Intermediate» деңгейінен төмен емес деңгейде білу (үміткерді таңдау кезінде есепке алынады).
-
-Сіз Forte командасына қосыла отырып, келесі мүмкіндіктерге ие боласыз:
-
-- Бәсекелес еңбекақы мен жеке тиімділік үшін бонустар.
-
-- Жайлы кеңседе жұмыс істеу кестесі - 5/2, сағат 9:00-ден 18:00-ге дейін;
-
-- Компания ішіндегі өмір, оның корпоративті іс-шаралары: тимбилдингтер, челлендждер, спорт турнирлері, қайырымдылық акциялары;
-
-- Медициналық сақтандыру арқылы денсаулықты сақтау, сондай-ақ туған күн және еңбек сіңірген жылдар бойынша Day Off;
-
-- Жеңілдікті автокредиттеу және жеңілдікті ипотека рәсімдеу мүмкіндігі;
-
-- Ірі фитнес-клубтардың абонементін тиімді бөліп төлеу;
-
-- Үздіксіз білім алу және өзін-өзі дамыту үшін корпоративтік кітапханаға қолжетімділік.
-
------------------------------------------------------------------------------------------------------
-
-Что такое ForteBank?
-
-место сильных людей;
-входит в ТОП-5 ведущих банков Казахстана;
-более 20 лет на рынке банковских услуг;
-около 4 000 сотрудников;
-20 филиалов по всей стране.
-
-Обязанности:
-
-- Проведение переговоров, поиск и привлечение новых клиентов;
-
-- Консультация действующих клиентов по кредитным продуктам НПБ;
-
-- Принятие обращений на выдачу займов, регистрация и заведение кредитных заявок;
-
-- Вынесение вопросов на УО, в т.ч. выдача кредитных займов клиентам НПБ;
-
-- Контроль и исполнение особых условий по выданным займам;
-
-- Ежемесячный мониторинг своевременного погашения по выданным займам;
-
-- Соблюдение конфиденциальности информации.
-
-Требования:
-
-- Высшее экономическое/финансовое образование;
-
-- Опыт работы в банке;
-
-- Опыт работы по специализации: более 3 лет;
-
-- Умение работать с клиентами, находить подход к ним. Умение вести переговоры, решать нестандартные вопросы и задачи;
-
-- Умение анализировать и структурировать информацию, делать объективные выводы;
-
-- Умение написания кредитных предложений и проектов;
-
-- Знание законодательства РК, в т. ч. НПА НБ РК в области финансово-кредитной деятельности;
-
-- Знание кредитных инструментов и процессов Банка;
-
-- Знание составления финансового анализа (ФЛ, ИП, ТОО);
-
-- Знание казахского, русского языка, а так же английского языка на уровне не ниже «Upper Intermediate» (учитывается при выборе кандидата).
-
-Став частью команды Forte, ты получишь:
-
-- Конкурентную заработную плату и бонусы за персональную эффективность.
-
-- График работы 5/2 с 9:00-18:00 в комфортном офисе;
-
-- Жизнь внутри компании с ее корпоративными мероприятиями: тимбилдинги, челленджи, спортивные турниры, благотворительные акции;
-
-- Заботу о здоровье с медицинским страхованием, а также DayOff в честь дня рождения и за выслугу лет;
-
-- Льготное автокредитование и возможность оформления льготной ипотеки;
-
-- Выгодную рассрочку в крупные фитнес-клубы;
-
-- Доступ к корпоративной библиотеке для непрерывного обучения и саморазвития.",3–6 лет,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/118027621,Не указано,Не указано,2025-05-16
-Senior IT Auditor (Almaty/Astana),ТОО KPMG,Алматы,Не указано,"Key Responsibilities:
-
-Lead and participate in the execution of IT audit engagements as part of financial audits, including assessment of IT General Controls (ITGC), automated business controls, and system interfaces;
-Manage project teams, including planning, task allocation, quality review, and monitoring of deadlines and deliverables;
-Conduct IT risk assessments of client environments, including evaluations of access management, change management, backup procedures, and incident response processes;
-Prepare audit reports, client recommendations, and deliver presentations of findings to key stakeholders;
-Coordinate with financial audit teams, technical experts, client IT departments, and international offices;
-Support advisory projects in areas such as SOX compliance, ESG readiness, IPO support, M&A due diligence, and information security assessments;
-Mentor and develop junior team members through coaching, feedback, and formal/informal training;
-Ensure compliance with internal quality standards and global audit methodologies of the firm.
-
-
-Qualifications and Requirements:
-
-Bachelor's or Master's degree in Information Technology, Cybersecurity, Economics, Audit, or a related field;
-3 to 6 years of relevant experience in IT audit, IT consulting, cybersecurity, or internal controls, Previous work experience at a Big 4 firm will be considered an advantage;
-Hands-on experience with major IT environments and systems such as SAP, Oracle, 1C, Microsoft Dynamics, including understanding of system architecture, access rights, and audit logging;
-Solid knowledge and practical application of frameworks such as ITGC, COBIT, ISO 27001, data protection regulations (e.g., GDPR), and SOX requirements is a strong advantage;
-Possession or active pursuit of certifications such as CISA, CIA, CISSP, ISO 27001 Lead Auditor is preferred;
-Strong command of English at Upper-Intermediate to Advanced level for working with international clients and documentation;
-Experience engaging with senior stakeholders such as CIOs, CFOs, Internal Audit Heads.
-
-
-Professional Attributes:
-
-Strong critical thinking skills and the ability to structure complex information, identify control gaps, and provide value-added recommendations;
-Well-developed project management and leadership capabilities;
-Ability to manage multiple projects and deadlines simultaneously;
-Proactive, results-oriented mindset with an interest in developing new service areas.",3–6 лет,Полная занятость,5/2,8,На месте работодателя или гибрид,16 мая 2025,https://hh.kz/vacancy/120642411,Не указано,Не указано,2025-05-16
-Персональный менеджер,АО Микрофинансовая организация KMF(КМФ),Жезказгане,Не указано,"Компания KMF – лидер на рынке микрокредитования с большими планами на будущее. Мы открыли более 116 офисов, получили множество наград и активно принимаем участие в важных для экономики Казахстана событиях. Поддерживаем «зеленые технологии», спорт, предпринимательство и т.д.
-
-Персональный менеджер – это ключевое звено, лицо Компании, движущая сила, и мы ищем сотрудника в нашу команду. Персональный менеджер – это ответственность, амбициозность и коммуникабельность. Благодаря этим качествам вы сможете многого добиться и значительно повысить свои доходы.
-
-Что делать?
-
-Консультировать клиентов на всех этапах сотрудничества;
-Вести и увеличивать клиентскую базу;
-Проводить финансовый анализ бизнеса клиентов.
-
-В помощь прилагается:
-
-Планшеты;
-Брендированная экипировка;
-Оплачиваемая сотовая связь.
-
-Если у вас:
-
-Высшее или средне-специальное образование;
-Навыки пользователя ПК;
-Желание быть лучше каждый день;",не требуется,Полная занятость,5/2,8,Не указано,16 мая 2025,https://hh.kz/vacancy/120562423,Не указано,Не указано,2025-05-16
-Finance Specialist,TESERACT PTE. LTD.,Астана,Не указано,"Work format: Remote
-
-Employment: Full-time
-Salary: XX$/hour
-English: Upper-Intermediate
-
-We are looking for an experienced finance professional to join our team and take responsibility for key areas such as management accounting, budgeting, and financial analysis.
-
-❗ Please note: This position includes a test assignment. If you are not willing to complete it, please do not apply.
-
-
-Key Requirements:
-
-• Higher education in finance, economics, accounting, or business administration
-
-• 3+ years of experience in a finance role at an international company or corporate group (experience in Big Four and in the IT industry is a strong plus)
-
-• Knowledge of IFRS and budgeting principles
-
-• Strong understanding of financial and management reporting: BS, P&L, Cash Flow
-
-• Ability to develop and manage project budgets (including international accounting and multicurrency)
-
-• Advanced proficiency in MS Excel / Google Sheets, including:
-
-• array formulas
-
-• Power Query
-
-• building system-based analytical solutions
-
-• Knowledge of accounting and tax accounting
-
-
-Key Responsibilities:
-
-• Monitor period closings (monthly, quarterly, annually)
-
-• Prepare Cash Flow reports in line with internal guidelines
-
-• Coordinate and consolidate annual and monthly budgets
-
-• Perform financial analysis, monitor budgets and their execution
-
-• Prepare ad-hoc reports for the COO, CEO, and Board of Directors
-
-• Manage financial flows, maintain a payment calendar, ensure payment discipline
-
-• Prepare regular management reports (monthly operating results, annual reports, plan/fact analysis)
-
-• Conduct financial modeling and other economic calculations
-
-
-If you meet the above requirements and are ready to complete the test assignment — we look forward to your application.
-
-We are seeking someone who doesn’t just “work with numbers,” but understands the business behind the reports",3–6 лет,Полная занятость,5/2,8,Удалённо,16 мая 2025,https://hh.kz/vacancy/120630698,Не указано,Не указано,2025-05-16
-TeamLead,АО Народный банк Казахстана. IT,Алматы,Не указано,"Общие требования:
-
-• Высшее техническое образование (желательно в области ИТ, математики или инженерии).
-• Опыт работы в роли тимлида или senior разработчика от 5 лет.
-• Общий опыт коммерческой разработки — от 7 лет.
-• Опыт управления командой от 3 человек.
-• Опыт работы в финансовом/банковском секторе — как преимущество.
-
-Технические навыки:
-
-• Уверенное владение основным стеком технологий - .NET, golang, MSSQL, Oracle, Postgre, Kafka, Rabbit MQ, Kubernetes, git.
-• Опыт проектирования и разработки сложных высоконагруженных систем.
-• Опыт внедрения CI/CD, знание Git, Jenkins/GitLab CI, Docker, Kubernetes
-• Знание архитектурных паттернов и умение принимать архитектурные решения.
-• Опыт интеграции с внешними системами и API (REST, SOAP, MQ и т.п.).
-• Знание принципов безопасной разработки (OWASP, защита данных, авторизация, предотвращение атак).
-
-Навыки управления и коммуникации:
-
-• Опыт постановки задач, планирования и оценки сроков.
-• Навыки наставничества и развития команды.
-• Умение проводить code review и обеспечивать качество кода.
-• Навыки эффективной коммуникации с аналитиками, тестировщиками, архитекторами и бизнес-заказчиками.
-Способность координировать работу с другими командами (мобильная разработка, аналитика, тестирование, архитектура, DevOps, сопровождение).
-• Способность работать в условиях высокой нагрузки и гибко реагировать на изменения требований.
-• Опыт Agile/Scrum/Kanban
-• Понимание банковских бизнес-процессов.
-
-
-Зоны ответственности:
-
-• Организация работы команды: планирование, распределение задач, контроль сроков и качества.
-• Поддержание технического уровня команды и развитие компетенций.
-• Взаимодействие с другими командами внутри ИТ и с бизнес-подразделениями.
-• Участие в проектировании архитектуры и технических решений.
-• Контроль соблюдения процессов разработки, безопасности и соответствия стандартам Банка.",более 6 лет,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120636887,Не указано,Не указано,2025-05-16
-Руководитель отдела продаж,ТОО INTENSIVE GROUP,Алматы,"от 500 000 до 1 200 000 ₸ за месяц, на руки","О нас:
-
-Nutribase — компания, которая занимается импортом и продажей премиальных БАДов и витаминов из США и Европы. Мы работаем как с оптовыми партнёрами, так и в розницу через сайт и соцсети. У нас молодой, энергичный коллектив, интересные задачи, живой темп и уютный офис в одном из лучших районов Алматы. Мы растём быстро и ищем сильного руководителя, который усилит наш отдел продаж. Наш инстаграм: @nutribase.kz
-
-
-Обязанности:
-
-Управление и развитие команды продаж
-
-Контроль выполнения плана и ключевых показателей
-
-Оптимизация воронки продаж, улучшение работы с CRM
-
-Повышение эффективности коммуникаций с клиентами
-
-Адаптация и обучение новых сотрудников
-
-Участие в стратегии развития отдела и компании
-
-Требования:
-
-Опыт управления отделом продаж от 2 лет
-
-Навыки системной работы: KPI, CRM, аналитика
-
-Умение мотивировать команду и выстраивать процессы
-
-Отличные коммуникативные и лидерские качества
-
-Знание e-commerce или фармацевтического рынка — преимущество
-
-Условия:
-
-График: 5/2 с 10:00 до 20:00
-
-Официальное трудоустройство
-
-Оплата: фикс + бонус за результат
-
-Дружная команда, реальный карьерный рост и участие в развитии бренда
-
-​​​​​​​",3–6 лет,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120640613,Не указано,500000-1200000 ₸,2025-05-16
-Финансовый аналитик,ТОО STEPPE FINANCE,Алматы,Не указано,"Мы, STEPPE Finance — консалтинговая компания в сфере финансов для бизнеса.
-
-Сейчас мы ищем финансового аналитика для работы в финансовом отделе компании.
-
-Позиция предполагает работу с клиентами в разных сферах, что даст понимание специфики работы бизнеса в различных направлениях.
-
-Обязанности:
-
-Формирование управленческой отчетности;
-Проведение ежемесячного и годового планирования;
-Контроль соблюдения плана;
-Сверка отчетов (работа Excel);
-Анализ финансовых результатов, формулирование рекомендаций по повышению эффективности;
-Формирование ежемесячных отчетов по продажам;
-Подготовка аналитических отчетов по требованию.
-
-Требования:
-
-Высшее образование в области финансов/бух.учета;
-Уверенный пользователь MS Excel (ВПР, суммеслимн и другие базовые формулы);
-Умение работать в программе 1С (будет преимуществом).
-
-Условия:
-
-График 5/2 в офисе в центре города;
-Своевременная оплата труда;
-Участие в интересных и амбициозных проектах;
-Карьерный рост.",1–3 года,Полная занятость,5/2,8,Не указано,16 мая 2025,https://hh.kz/vacancy/120651149,Не указано,Не указано,2025-05-16
-Младший бизнес-аналитик (Back Office / Банк),АО Bereke Bank,Алматы,Не указано,"Обязанности:
-
-Анализ и оптимизация бизнес-процессов банка
-
-Сбор, обработка и интерпретация бизнес-данных
-
-Участие в управлении проектами (планирование, контроль сроков и задач)
-
-Коммуникация с бизнес-заказчиками, IT-командой и смежными подразделениями
-
-Участие в дефект-менеджменте и функциональном тестировании
-
-Подготовка тест-кейсов и сопровождение внедрения изменений
-
-Требования:
-
-Знание банковских продуктов (кредиты, депозиты, платежи и пр.)
-
-Навыки анализа данных, выявления ошибок, ведения инцидентов
-
-Владение Jira, Confluence, Bitbucket
-
-Уверенный пользователь MS Office
-
-Понимание ИТ-процессов, проектной методологии и баз данных
-
-Условия:
-
-Гибридный график работы
-
-Возможность построить карьеру в динамично развивающемся банке
-
-Участие в создании и развитии современных финансовых продуктов
-
-Дружный коллектив и поддержку опытной команды
-
-Комфортные условия труда и широкие возможности для профессионального роста.
-
-Один из лучших социальных пакетов для сотрудников Банка (ДМС, материальная помощь и социальная поддержка, ежедневное медицинское сопровождение и пр.",1–3 года,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120642644,Не указано,Не указано,2025-05-16
-Маркетолог,ТОО Клиника Lucy,Алматы,"от 400 000 до 450 000 ₸ за месяц, на руки","Удаленный и гибридный формат работы - не рассматривается.
-
-Обязанности:
-
-Разработка и реализация акций, спец. предложений, скидочной политики;
-
-Проведение рекламных акций и презентаций продвигаемой продукции, услуги;
-
-Маркетинговое продвижение бренда на рынок (мониторинг конкурентов, проработка маркетинговой стратегии, привлечение клиентов, работа с подрядчиками – рекламные и производственные агентства);
-
-Создание, настройка и оптимизация рекламных кампаний (Google, Facebook, Yandex, Tiktok);
-
-Анализ эффективности рекламных кампаний;
-
-Лидогенерация трафика и заказов (Работа с контекстной и таргетированной рекламой (желательно опыт настройки рекламных кабинетов с нуля).
-
-Медиапланирование и распределение рекламных бюджетов (оффлайн и онлайн);
-
-Планирование и оптимизация рекламных расходов;
-
-Работа с системами аналитики Google Analytics, Yandex.Metrica;
-
-Работа с маркетинговой воронкой заказов;
-
-Анализ конкурентной среды в контексте.
-
-Работа с корпоративным сайтом (наполнение и корректировка информации);
-
-Продвижение проекта; привлечение аудитории;
-Работа с отзовиками ( 2Gis, Яндекс, Google и др.)
-Требования:
-Высшее образование, желательно маркетинг и реклама;
-Опыт работы маркетологом от 3 лет;
-
-Знание процессов автоматизированной работы с контекстными объявлениями (работа с сервисами, использование или написание скриптов, работа с выгрузками данных).
-
-Условия:
-График работы: 5/2 с 09-18:00
-Прозрачная оплата труда, на банковскую карту Халык.",3–6 лет,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120624232,Не указано,400000-450000 ₸,2025-05-16
-Финансист,ТОО Bolashak Engineering,Астана,"до 700 000 ₸ за месяц, на руки","Компания BOLASHAK ENGINEERING основанная в 2009 году обладает широкой продуктовой линейкой и высокой компетенцией в области информационных технологий.
-
-Фокусируя свою деятельность на передовых технологиях, компания предлагает своим клиентам широкую линейку продуктов и услуг, направленных на повышение эффективности работы предприятия.
-
-Обязанности:
-Составление финансовых отчетов (баланс, отчет о прибылях и убытках, денежные потоки);
-Анализ финансовых показателей компании;
-Участие в разработке и контроле бюджета;
-Прогнозирование денежных потоков и потребностей в финансах;
-Контроль за выполнением финансовой дисциплины.
-
-Требования:
-
-Образование и квалификация:
-
-Высшее образование в области экономики, финансов, бухгалтерского учёта, анализа и аудита, или менеджмента;
-Знание основ финансового менеджмента, бухгалтерского учета и анализа.
-
-​​​​​​​​​​​​​​Опыт работы:
-
-Опыт работы от 3 до 5 лет в сфере финансов, бухгалтерии или аудита;
-Опыт в составлении финансовых отчетов, бюджетировании, прогнозировании, работе с налоговыми расчетами.
-
-​​​​​​​Навыки:
-
-Отличное знание Excel (включая сложные формулы, сводные таблицы, макросы);
-Навыки финансового анализа, управления бюджетом, оценки рентабельности проектов;
-Знание основ налогообложения и законодательства в области финансов;
-Умение работать с большим объемом данных, быстро обрабатывать и анализировать информацию.
-
-Личностные качества:
-
-Внимательность к деталям;
-Высокий уровень аналитического мышления;
-Ответственность, организованность, умение работать в условиях многозадачности;
-Коммуникабельность для взаимодействия с коллегами, клиентами и руководством;
-Способность к работе в команде и самостоятельное принятие решений.
-
-Языковые требования:
-
-Владение казахским, русским языком свободно;
-Знание английского языка (Intermediate и выше) будет ПЛЮСОМ.
-Условия:
-Полная занятость;
-Молодой и дружный коллектив, минимум административных ограничений, уникальные услуги и решения, широко востребованные на рынке;
-Хорошие возможности для карьерного и финансового роста;
-Современный офис со всеми удобствами;
-Своевременная выплата заработной платы + бонусы;
-Оплата тарифа мобильного телефона;
-График работы: 5/2, с 9.00 до 18.00;
-Трудовой отпуск 24 календарных дня;
-Официальное трудоустройство по ТК РК;
-Частые корпоративные мероприятия за счет компании.",3–6 лет,Полная занятость,5/2,8,Не указано,16 мая 2025,https://hh.kz/vacancy/120640372,Не указано,до 700000 ₸,2025-05-16
-Финансовый менеджер,ТОО Моторная компания Астана-Моторс,Алматы,Не указано,"Обязанности:
-Согласование платежей и договоров на предмет экономической целесообразности;
-Участие в составлении ежегодного бюджета компании;
-Свод, ведение и контроль управленческой и финансовой отчетности в соответствии с политикой управляющей компании для внутренних и внешних пользователей;
-Регулярное составление периодичной отчетности для Управляющего директора;
-Регулярное составление план-факт анализа и мониторинг исполнения бюджета;
-Работа по оптимизации внутрихолдинговых финансовых потоков, подготовка соответствующей базы документов;
-Работа с ссудным портфелем компаний, входящих в Группу.
-Требования:
-Опыт работы по специальности не менее 3 лет;
-Опыт финансового моделирования, оценки инвестиционных проектов (NPV, IRR, etc.);
-Продвинутый пользователь MS Excel, 1C; Бухгалтерия 8;
-Знания принципов бух учета, налогового законодательства РК;
-Высокая общая профессиональная эрудиция;
-Знание финансово-экономических дисциплин;
-умение работать с финансовой (бухгалтерской) отчетностью, финансовыми документами, осуществлять финансовый анализ.
-Условия:
-Служебная мобильная связь;
-Медицинское обслуживание;
-Скидка на абонемент в фитнес;
-Бесплатная парковка;
-Материальная помощь при личных событиях;
-Тимбилдинги.",3–6 лет,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120622521,Не указано,Не указано,2025-05-16
-Бизнес-аналитик,"ТОО Интертоп Центральная Азия ,ТМ (INTERTOP)",Алматы,Не указано,"Вас приветствует Intertop + Pandora!
-
-На сегодня в нашей сети 57 магазинов Интертоп в 16 городах РК. Мы представляем такие моно-бренды, как: Emporio Armani, EA7, Armani Exchange, The North Face, Timberland, Vans, Geox, Lee&Wrangler, и магазины с мульти-брендами Intertop.
-
-Также мы имеем 26 магазинов Pandora в Казахстане и 1 в Кыргызстане.
-
-Мы ищем компетентного коллегу в отдел IT.
-
-Мы ожидаем от нашего кандидата:
-
-Релевантный опыт в крупных компаниях от 2 лет, предпочтительно из сферы ритейл или FMCG;
-Высшее образование;
-Продвинутый уровень владения 1С, Конфигурации: КА (Комплексная автоматизация);
-Желание погружаться в детали бизнес-процессов и выстраивать подробные схемы;
-Тебе нравится работать с большим объемом информации, данных, систематизировать их;
-Ты усидчив и любишь доводить любое дело до ожидаемого результата;
-Ты коммуникабельный и сможешь выявить у любого пользователя детали процессов в его работе и изложить это в схеме.
-Лидерские качества, аналитическое мышление и развитые коммуникативные навыки.
-
-Что предстоит делать:
-
-Коммуницировать с держателями процессов в офисе, погружаться в детали и составлять техническое задание для 1С разработчиков;
-Создавать пользовательские инструкции по информационным системам, составлять графическое описание БП;
-Транслировать потребности бизнеса сотрудникам ИТ-отдела, определять сроки;
-Ставить задачи в Jira, контролировать их исполнение;
-Обучать сотрудников работе в информационных системах.
-
-Что мы предлагаем:
-
-Open space в центре, график на выбор 08.00 - 17.00/09.00-18.00/10.00-19.00, свободный dress code;
-Компетентная IT-команда;
-Скидка сотрудника на сеть магазинов Pandora - 30%;
-Скидка сотрудника на сеть магазинов Intertop, Emporio Armani, EA7, Armani Exchange, The North Face, Timberland, Geox, Lee&Wrangler, Vans - от 30% до 70%;
-Возможность влияния на бизнес и профессионального развития;
-13-ая заработная плата в случае выполнения финансовых показателей компании.
-
-Если Вы обладаете всеми требуемыми навыками и опытом, а также готовы участвовать в конкурсе на данную позицию - отправьте отклик со словом ""ГОТОВ(-А)!"", мы ждем Вас!",3–6 лет,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120643291,Не указано,Не указано,2025-05-16
-Manual QA,Публичная Компания «Freedom Finance Global PLC»,Алматы,Не указано,"Мы активно развиваем цифровые продукты и улучшаем внутренние системы. Ищем бизнес-аналитика, который поможет проектировать удобные, технологичные решения для клиентов и сотрудников компании.
-
-Задачи:
-
-Мануальное тестирование веб-сайтов (десктоп/планшет/мобильные устройства);
-Функциональное и регрессионное тестирование Rest API с использованием Postman и Swagger;
-Разработка и поддержка тест-планов и тест-кейсов для веб-приложений и API;
-Выявление недостатков в технических заданиях и валидация требований;
-Активное участие в построении и оптимизации процессов тестирования;
-Работа в Jira;
-Тесное взаимодействие с командами разработки, аналитики и дизайна;
-Использование Dev-tools для анализа работы веб-приложений и поиска дефектов.
-
-Мы ожидаем от кандидата:
-Опыт мануального тестирования веб-сайтов от 3 лет;
-Отличное владение инструментами Dev-tools;
-Умение разрабатывать тест-кейсы и тест-планы;
-Опыт тестирования Rest API через Postman и Swagger;
-Знание принципов тестирования веб-приложений;
-Опыт работы с багтрекинговыми системами типа Jira;
-Высокий уровень коммуникативных навыков и умение работать в команде;
-Стремление к улучшению процессов и внимательность к деталям.
-
-Будет плюсом:
-
-Опыт построения тестовых процессов ""с нуля"";
-Базовые знания SQL и работы с базами данных;
-Опыт работы в финансовых проектах.
-
-Что мы предлагаем:
-
-Профессиональный коллектив;
-Возможность работать над проектами, приносящими пользу для тысяч людей;
-Неограниченный рост;
-Комфортный офиc, расположенный в Павлодаре или Алматы;
-Скидки на фитнесс, обучение английскому языку, подарки на праздники и дни рождения;
-Бонусы и уникальные предложения от компаний холдинга;
-Спонсирование профессионального обучения;
-Насыщенная корпоративная жизнь с выездами на природу, праздничными мероприятиями в офисе, играми и розыгрышами подарков.",3–6 лет,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120634679,Не указано,Не указано,2025-05-16
-Network Manager / Сетевой менеджер,KIMEP,Алматы,Не указано,"KIMEP, CISC is looking for applicants to the following position:
-
-Job Title: Network Manager
-
-Division: Academic Affairs
-
-Department: Computer and Information Systems Center (CISC)
-
-Position reports to: Technical Director of CISC
-
-Job Purpose Summary: Installation, adjustment and maintenance KIMEP LAN infrastructure.
-
-Key Responsibilities and Duties:
-
-Installation, adjustment and maintenance KIMEP LAN equipment
-Installation, adjustment and maintenance KIMEP Server’s equipment
-Installation, adjustment and maintenance Active Directory
-Installation, adjustment and maintenance KIMEP Server’s software
-Collaborate with software providers in solving of technical problems
-Installation, adjustment and maintenance of a new software and hardware at KIMEP
-Consult engineering personnel on implementation of a new equipment at KIMEP
-Determine the types of information assets to be protected.
-Identify existing risks, threats, vulnerabilities in IT area
-Develop, implement and update an information security policy.
-Control over regulatory compliance of the information security policy
-Develop and implement technical means for information security.
-Perform risk assessments and execute tests of data processing system to ensure functioning of data processing activities and security measures.
-Oversee the integrity of data and documental support of the changes in data.
-Control and provision for timely and complete backup of data.
-Development of recommendations for the improvement of the current management information system security.
-Train users and promote security awareness to ensure system security and to improve server and network efficiency.
-Keep confidentiality when working with computer information
-Submit to industrial safety and accident prevention rules
-Other duties assigned by supervisor
-
-Minimum Qualifications: Higher education in IT technologies and experience of work with it for more than 3 years, knowledge and skills in working with Windows 7/10/2012/2016, Linux, FreeBSD, Active Directory, MS Office, Browsers, E-mail , sociability, managerial abilities, insistence, self-study capability.
-
-Preferred Qualifications: experience and skills in working with network equipment (switches, routers, firewalls) and servers. Experience in the development and implementation of information security policies and systems at the enterprise level. Knowledge of English will be a plus.
-
-Deadline for submission of applications/resumes is May 30, 2025 included or open until filled.
-
-Please indicate your salary expectations in KZT, net monthly.
-
-************************************************************************
-
-КИМЭП, ЦИКС в поисках соискателей на следующую вакансию:
-
-Должность: сетевой менеджер
-
-Отдел: по академическим вопросам
-
-Департамент: Центр информационных и компьютерных систем (ЦИКС)
-
-Непосредственный руководитель: Технический директор
-
-Цель учреждения данной позиции: установка, настройка и обслуживание инфраструктуры локальной сети КИМЭП
-
-Основные служебные обязанности:
-
-Установка, настройка и обслуживание оборудования локальной сети КИМЭП;
-Установка, настройка и обслуживание серверного оборудования КИМЭП;
-Установка, настройка и обслуживание активного каталога;
-Установка, настройка и обслуживание серверного программного обеспечения КИМЭП;
-Сотрудничество с поставщиками программного обеспечения в решении технических проблем;
-Установка, настройка и обслуживание нового программного и аппаратного обеспечения КИМЭП;
-Консультирование инженерного персонала по внедрению нового оборудования в КИМЭП;
-Определение типов информационных активов, требующих защиты;
-Определение существующих рисков, угроз, уязвимостей в области ИТ;
-Разработка, внедрение и обновление положения по информационной безопасности;
-Контроль соответствия положения по информационной безопасности нормативным требованиям;
-Разработка и внедрение технических средств информационной безопасности;
-Оценка рисков и тестирование системы обработки данных для обеспечения функционирования мероприятий по обработке данных и обеспечения мер безопасности;
-Надзор за целостностью данных и документальным сопровождением изменений в данных;
-Контроль и обеспечение своевременного и полного резервного копирования данных;
-Разработка рекомендаций по совершенствованию существующей системы управления информационной безопасностью;
-Обучение пользователей и повышение осведомленности для обеспечения безопасности системы и повышения эффективности работы сервера и сетей;
-Сохранение конфиденциальности при работе с компьютерной информацией;
-Подчинение правилам промышленной безопасности и техники безопасности;
-Другие обязанности, назначенные руководителем.
-
-Минимальные навыки: высшее образование в области информационных технологий и опыт работы в области более 3 лет; знания и навыки работы с Windows 7/10/2012/2016, Linux, FreeBSD, Active Directory, MS Office, браузерами, электронной почтой; коммуникабельность, управленческие способности, настойчивость, способность к самообучению.
-
-Предпочтительные навыки: опыт и навыки работы с сетевым оборудованием (коммутаторы, маршрутизаторы, межсетевые экраны) и серверами. Опыт в области разработки и внедрения политик и систем информационной безопасности на уровне предприятия. Знание английского языка будет плюсом.
-
-Отклики принимаются до 30 мая 2025 года включительно или до найма сотрудников
-
-Просим указать ваши ожидания по заработной плате в тенге на руки в форме отклика.",1–3 года,Полная занятость,5/2,8,Не указано,16 мая 2025,https://hh.kz/vacancy/120632035,Не указано,Не указано,2025-05-16
-Digital Support Executive,ТОО АНТАЛ БИЗНЕС РЕШЕНИЯ (ТМ Antal Kazakhstan),Алматы,Не указано,"Одна из ведущих международных FMCG компании ищут специалиста на позицию Digital Support Executive для поддержки и развития цифровых решении
-
-Обязанности:
-
-Администрирование и сопровождение Telegram-бота для розничных партнеров.
-
-Оперативная поддержка пользователей: анализ и решение технических запросов.
-
-Тестирование новых функций и обеспечение корректной работы сервиса.
-
-Взаимодействие с внутренними командами и разработчиками для оптимизации продукта.
-
-Подготовка регулярной отчетности, аналитика пользовательского опыта и функционала.
-
-Требования:
-
-Опыт в сфере технической поддержки или IT-администрирования.
-
-Уверенное владение Excel; знание Power BI будет преимуществом.
-
-Базовое понимание скриптов и инструментов автоматизации — как плюс.
-
-Английский язык — уровень не ниже Intermediate (рабочая переписка, техническая документация).
-
-Будет преимуществом:
-
-Опыт работы в международной компании.
-
-Участие в запуске цифровых продуктов или сервисов.
-
-Мы предлагаем:
-
-Работу в стабильной международной компании.
-
-Участие в развитии инновационных digital-инструментов.
-
-Возможности профессионального роста и обучения.
-
-Конкурентоспособный компенсационный пакет.",1–3 года,Полная занятость,5/2,8,На месте работодателя,16 мая 2025,https://hh.kz/vacancy/120629254,Не указано,Не указано,2025-05-16
-Аналитик данных,ТОО Askona Life Kazakhstan (Аскона Лайф Казахстан),Алматы,Не указано,"Чем предстоит заниматься:
-
-Формирование отчетности по всем финансовым показателям ;
-Построение продвинутых Дашбордов;
-Ведение и оптимизация отчётности
-Подготовка аналитических данных
-Работа с SQL запросами
-
-Требования:
-
-Умение грамотно составлять заключения и рекомендации на основе произведенной аналитики
-Большая оперативная память и внимательност
-Логическое и аналитическое мышление
-Продвинутое пользование Microsoft Excel, Power query, Power BI, Power Pivot, SQL запросов,
-Python (будет преимуществом)
-Знание 1С;
-Способность воспринимать и перерабатывать большие объемы информации;
-Умение анализировать и систематизировать полученную информацию, планировать свою работу.
-
-Условия:
-
-Стабильная работа в крупной компании – с нами можно строить планы и улучшать свою жизнь;
-Всё официально: оформление по ТК РК с первого дня, официальная заработная плата, полный социальный пакет;
-Пятидневная рабочая неделя с 9:00 до 18:00;
-Скидки на продукцию;
-Классная и дружная команда;
-Карьерный рост.",1–3 года,Не указано,Не указано,Не указано,Не указано,16 мая 2025,https://hh.kz/vacancy/120629934,Не указано,Не указано,2025-05-16
-Менеджер по работе с клиентами (аутстаффинг) Регионального филиала по Алматинской области,Фонд Развития предпринимательства Даму,Конаеве,Не указано,"Квалификационные требования:
-
-Высшее образование (подтверждается копиями дипломов)
-Стаж работы не менее 1 (одного) года в банке или финансовой организации. При прохождении стажировки в Фонде, опыт работы не обязателен
-Знать и применять действующее законодательство Республики Казахстан, в том числе регулирующее финансовую, банковскую и кредитную деятельность
-Знать финансовый анализ, Государственные программы, реализуемые Фондом, а также программы Фонда
-Знать порядок, основы и правила ведения и составления документов (договоров, отчетов, актов и т. п.)
-Знать нормативные документы Республики Казахстан, а также ВД Фонда по части субсидирования, гарантирования, администрирования, в том числе распоряжения, приказы и другие документы руководителей Фонда
-Навыки ведения переговоров, навыки ведения деловой переписки
-Грамотная устная и письменная речь
-Владение программами Word, Excel, Power Point на уровне опытного пользователя, знание электронного документооборота, Microsoft Outlook, прикладных компьютерных программ (1С, и др.)
-Знание языков: казахский, русский
-
-Функционал по работе:
-
-Предоставление консультаций и информационной помощи, по вопросам получения мер поддержки по программам, реализуемым Фондом (определения, механизм работы, условия реализации, требования к участию и т. Д), в соответствии с установленными ВД Фонда;
-Обеспечение информационно-консультационных услуг посредством телефонных звонков, а также посредством мессенджеров (WhatsApp, Telegram), руководствуясь ВД Фонда;
-Обеспечение своевременного и корректного занесения данных по клиенту в bpm’online sales (далее – ИС);
-Ведение клиентской базы в ИС, недопущение и удаление дублей в ИС;
-Предоставление клиенту информации о текущем статусе рассмотрения его заявки на получение государственной поддержки, в рамках действующих программ, реализуемых Фондом;
-Разъяснение клиентам по перечню документов, необходимых для получения поддержки в рамках программ/инструментов, реализуемых Фондом;
-Оказание помощи клиентам в заведении заявки на гарантирование/субсидирование через online.damu и/или egov.kz и/или в регистрации на doculite.kz, для подписания договоров по субсидированию/гарантированию, в рамках программ/инструментов, реализуемых Фондом;
-Помощь в урегулировании технических проблем, возникающих при заведении заявок в online.damu и/или egov.kz и/или doculite.kz, со структурными подразделения Фонда (далее – СП), в пределах своей компетенции;
-При необходимости предоставление выездных консультаций по государственным программам поддержки предпринимательства, реализуемым Фондом, а также по всем финансовым и нефинансовым программам Фонда (определения, механизм работы, условия реализации, требования к участию и т. д.);
-Привлечение клиентов к участию в финансовых, нефинансовых программах, реализуемых Фондом;
-Популяризация и привлечение клиентов к участию в мероприятиях (выставки, форумы, конференций, бизнес-форумы и т. п.) и обучениях, проводимых Фондом;
-Обзвон клиентов с целью привлечения клиентов к участию в мероприятиях, организовываемых Фондом;
-Содействие главным менеджерам по продвижению программ по организации Выставки отечественных производителей «Ulttyq Onim»: информирование предпринимателей о Выставке, привлечение предпринимателей региона к участию в Выставке, сбор информации для каталога, полное сопровождение участников Выставки, работа по организации конкурсов в рамках Выставки.",1–3 года,Полная занятость,5/2,8,Не указано,16 мая 2025,https://hh.kz/vacancy/120621652,Не указано,Не указано,2025-05-16
-Риск менеджер направления оценки кредитного риска крупного бизнеса,АО Банк ЦентрКредит,Алматы,Не указано,"ВАМ ПРЕДСТОИТ:
-
-Анализ кредитоспособности клиентов:
-
-• Проведение комплексной оценки финансового состояния крупных корпоративных клиентов.
-
-• Анализ финансовой отчетности, бухгалтерских документов и других источников информации.
-
-Оценка кредитных рисков:
-
-• Разработка и применение моделей оценки кредитных рисков.
-
-• Определение вероятности дефолта и потерь по кредитам.
-
-Подготовка кредитных предложений:
-
-• Формирование рекомендаций по кредитным лимитам и условиям кредитования.
-
-• Подготовка отчетов и презентаций для кредитного комитета.
-
-Мониторинг кредитного портфеля:
-
-• Постоянный мониторинг состояния кредитного портфеля и выявление потенциальных рисков.
-
-• Анализ изменений в финансовом состоянии заемщиков и их влияния на кредитные риски.
-
-Взаимодействие с другими подразделениями:
-
-• Сотрудничество с отделами риск-менеджмента, юридическим и compliance для обеспечения соблюдения внутренних и внешних норм.
-
-• Работа с бизнес-линиями для понимания потребностей клиентов и предоставления им оптимальных решений.
-
-МЫ ОЖИДАЕМ, ЧТО У ВАС ЕСТЬ:
-Высшее экономическое и/или техническое (математическое) образование.
-Опыт работы в банковской сфере не менее 3-х лет.
-Знание процессов предоставления кредитов, бухгалтерского учета на предприятии, анализа финансового состояния деятельности предприятия, анализа инвестиционных проектов.
-
-Навыки пользователя программ Microsoft Office.
-
-Знание всех кредитных операций и процедур Банка по кредитованию.
-
-Знание нормативных правовых документов, банковского законодательства РК.
-
-Знание законодательных и нормативно-правовых актов, регламентирующих банковскую деятельность.
-
-Коммуникабельность, умение работать в команде, энтузиазм, высокие деловые и личные качества.",3–6 лет,Полная занятость,5/2,8,Не указано,16 мая 2025,https://hh.kz/vacancy/119087225,Не указано,Не указано,2025-05-16
+⁠Достойный оклад и долю в акциях компании.
+Дружный и профессиональный коллектив, который всегда поддержит вас.
+Пятидневную рабочую неделю, восьмичасовой рабочий день и четыре недели отпуска в году.
+
+Если вы готовы к новым вызовам и хотите стать частью успешной и амбициозной компании, отправляйте нам своё резюме! Мы ждем вашего отклика!
+
+Не упустите шанс развиваться в ведущей компании в сфере онлайн-платежей!",3–6 лет,Полная занятость,5/2,8,На месте работодателя,17 мая 2025,https://hh.kz/vacancy/120524591,Не указано,Не указано,2025-05-17
+"Senior Back-end Developer (PHP, Symfony)",Tando Financial a.s.,Актобе,Не указано,"Our company is part of a large Fintech holding, a leader in lending, debt collection, and marketing in the Czech Republic, Ukraine, Spain, and Romania. We are seeking an experienced Senior PHP Software Developer to create innovative services that meet high standards of quality and reliability. Operating under a Czech National Bank license, we have provided international market services for over 10 years.
+
+Key Requirements
+
+5+ years of software development experience, with a focus on PHP and modern ecosystem technologies.
+Symfony: Expertise in building and maintaining complex applications.
+Architectural Solutions: Design and development of sophisticated systems using SOLID principles and modern architectural patterns.
+Databases: Proficiency with relational (MySQL, PostgreSQL) and non-relational databases; query optimization and data structure design.
+Queues (RabbitMQ, Kafka, etc.): Configuration and optimization.
+REST API & Microservices: Development and integration of APIs for frontend interfaces and external systems.
+
+Core Skills & Knowledge
+
+SOLID, OOP: Deep understanding and practical application.
+Design Patterns: Mastery of architectural patterns to enhance efficiency and system resilience.
+REST API & Integrations: API development and integration with internal/external services.
+Testing: Experience writing unit and integration tests.
+Agile: Familiarity with Scrum or Kanban methodologies.
+
+Skills & Tech Stack PHP 8.1*, Symfony 6*, architectural design, SOLID, databases (MySQL, PostgreSQL), queues (RabbitMQ, Kafka), REST API, microservices, OOP, design patterns, testing (unit, integration), Agile, Scrum, Kanban, Vue.js 3, TypeScript, Redis, APM, CI/CD, DevOps, Laravel, Yii
+
+Will be a plus
+
+Practical experience with Vue.js for UI development.
+TypeScript knowledge and implementation.
+Familiarity with Redis or other caching systems.
+Experience with APM tools and logging for production performance monitoring.
+CI/CD & DevOps: Automation of deployment processes and DevOps practices.
+Skills in Laravel/Yii frameworks, plus optimization of legacy services.
+
+Personal Qualities
+
+Proactivity and ability to work independently.
+Commitment to code quality, readability, and maintainability.
+Adaptability to a fast-paced, dynamic environment with accountability for deliverables.
+
+We Offer
+
+A role in an international Fintech company with growth opportunities.
+Modern tools and influence over architectural decisions.
+Professional development support.
+Competitive salary (discussed during the interview, based on qualifications).
+
+Ready to join? Send your CV, and let’s explore the possibilities!",более 6 лет,Полная занятость,5/2,8,Удалённо,17 мая 2025,https://hh.kz/vacancy/120523506,Не указано,Не указано,2025-05-17
+DevOps Middle Engineer,Itransition,Астана,Не указано,"We are looking for experienced developers that are willing to solve complex technical issues while developing high quality software systems using modern technologies.
+
+What we expect from you:
+
+2 + years of experience as a DevOps/Infrastructure Engineer;
+Expertise in Java, Python, Ruby, Bash or experience in another programming language;
+Experience and knowledge of CI/CD design and practice;
+Public Cloud, preferably GCP but AWS and Azure are good too!;
+Experience with Cloud Architecture Design principles and Cloud Architect certification;
+Experience creating infra as code solutions using tools such as: Terraform, Azure ARM templates , Cloudformation – a must;
+Experience with CI/CD tools and methodologies such as: Jenkins, ArgoCD, CircleCI, GitHub Action etc – a must;
+Hands-on implementation of Continuous Integration and Continuous Delivery in complex environments;
+Proven experience working in a production environment – a must;
+Solid experience implementing production-grade Kubernetes Clusters with containerized environments and microservices (Docker, Kubernetes);
+Experience working with Configuration Management tools (Chef, Puppet, Ansible is an advantage);
+Solid understanding of networking technologies mainly focuses on networking for clouds.
+Spoken English (Upper-Intermediate level and above)
+
+It would be a plus to have:
+
+Experience with Service Mesh solutions such as Anthos, Istio, Consul;
+Experience with monitoring and log analysis tools such as ELK, Prometheus, Grafana, New Relic, Splunk etc.
+
+We can offer:
+
+Projects for such clients as PayPal, Wargaming, Xerox, Philips, adidas and Toyota
+Competitive compensation that depends on your qualification and skills
+Career development system with clear skill qualifications
+Flexible working hours aligned to your schedule
+Options to work remotely
+Compensation for medical expenses
+English courses online
+Corporate parties and events for employees and their children
+Gym membership compensation, corporate sport competitions (cybersport included)
+5 days of paid sick leave per year with no obligation to submit a sick-leave certificate",1–3 года,Полная занятость,5/2 или свободный,8,Не указано,17 мая 2025,https://hh.kz/vacancy/111888744,Не указано,Не указано,2025-05-17
+DevOps Senior Engineer,Itransition,Астана,Не указано,"We are looking for experienced developers that are willing to solve complex technical issues while developing high quality software systems using modern technologies.
+
+What we expect from you:
+
+5 + years of experience as a DevOps/Infrastructure Engineer;
+Expertise in Java, Python, Ruby, Bash or experience in another programming language;
+Experience and knowledge of CI/CD design and practice;
+Public Cloud, preferably GCP but AWS and Azure are good too!;
+Experience with Cloud Architecture Design principles and Cloud Architect certification;
+Experience creating infra as code solutions using tools such as: Terraform, Azure ARM templates , Cloudformation – a must;
+Experience with CI/CD tools and methodologies such as: Jenkins, ArgoCD, CircleCI, GitHub Action etc – a must;
+Hands-on implementation of Continuous Integration and Continuous Delivery in complex environments;
+Proven experience working in a production environment – a must;
+Solid experience implementing production-grade Kubernetes Clusters with containerized environments and microservices (Docker, Kubernetes);
+Experience working with Configuration Management tools (Chef, Puppet, Ansible is an advantage);
+Solid understanding of networking technologies mainly focuses on networking for clouds.
+Spoken English (Upper-Intermediate level and above)
+
+It would be a plus to have:
+
+Experience with Service Mesh solutions such as Anthos, Istio, Consul;
+Experience with monitoring and log analysis tools such as ELK, Prometheus, Grafana, New Relic, Splunk etc.
+
+We can offer:
+
+Projects for such clients as PayPal, Wargaming, Xerox, Philips, adidas and Toyota
+Competitive compensation that depends on your qualification and skills
+Career development system with clear skill qualifications
+Flexible working hours aligned to your schedule
+Options to work remotely
+Compensation of medical costs
+English courses online
+Corporate parties and events for employees and their children
+Gym membership compensation, corporate sport competitions (cybersport included)
+5 days of paid sick leave per year with no obligation to submit a sick-leave certificate",3–6 лет,Полная занятость,5/2 или свободный,8,Не указано,17 мая 2025,https://hh.kz/vacancy/111888704,Не указано,Не указано,2025-05-17
