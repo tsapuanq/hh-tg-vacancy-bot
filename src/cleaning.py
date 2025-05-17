@@ -2,7 +2,7 @@ import pandas as pd
 import ast
 import logging
 import re 
-
+import numpy as np
 
 def normalize_city_name(city: str) -> str:
     # пример: если вдруг получаем "Алмата", меняем на "Алматы"
@@ -152,6 +152,16 @@ def clean_work_format(text: str) -> str:
     return text.replace("Формат работы:", "").strip().capitalize() or "Не указано"
 
 
+
+def clean_schedule(text):
+    if isinstance(text, str):
+        if 'График:' in text:
+            return text.split('График:')[1].strip()
+        elif 'Не указано' in text:
+            return 'Не указано'
+    return np.nan
+
+
 # ======= Основной pipeline =======
 def run_cleaning_pipeline(df: pd.DataFrame) -> pd.DataFrame:
     if df is None or not isinstance(df, pd.DataFrame):
@@ -183,6 +193,6 @@ def run_cleaning_pipeline(df: pd.DataFrame) -> pd.DataFrame:
     df["published_date_dt"]= df["published_date_dt"].dt.strftime("%Y-%m-%d")
     df["work_format"]      = df["work_format"].apply(clean_work_format)
     df["working_hours"]    = df["working_hours"].apply(clean_working_hours)
-
+    df['schedule']         = df['schedule'].apply(clean_schedule)
     print(f"[DEBUG] Финальный DataFrame: {df.shape}")
     return df
