@@ -1,83 +1,83 @@
-name: HH Scraper & Publisher
+# name: HH Scraper & Publisher
 
-permissions:
-  contents: write
+# permissions:
+#   contents: write
 
-on:
-  schedule:
-    - cron: '0 6 * * *'   # 11:00 по Алматы
-    - cron: '0 11 * * *'  # 16:00 по Алматы
-    - cron: '0 16 * * *'  # 21:00 по Алматы
-  workflow_dispatch:
+# on:
+#   schedule:
+#     - cron: '0 6 * * *'   # 11:00 по Алматы
+#     - cron: '0 11 * * *'  # 16:00 по Алматы
+#     - cron: '0 16 * * *'  # 21:00 по Алматы
+#   workflow_dispatch:
 
-jobs:
-  hh_pipeline:
-    runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: ./
+# jobs:
+#   hh_pipeline:
+#     runs-on: ubuntu-latest
+#     defaults:
+#       run:
+#         working-directory: ./
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+#     steps:
+#       - name: Checkout repository
+#         uses: actions/checkout@v4
 
-      - name: Pull latest changes first
-        run: git pull origin main --rebase
+#       - name: Pull latest changes first
+#         run: git pull origin main --rebase
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
+#       - name: Set up Python
+#         uses: actions/setup-python@v4
+#         with:
+#           python-version: '3.10'
 
-      - name: Cache pip dependencies
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
+#       - name: Cache pip dependencies
+#         uses: actions/cache@v4
+#         with:
+#           path: ~/.cache/pip
+#           key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+#           restore-keys: |
+#             ${{ runner.os }}-pip-
 
-      - name: Cache Playwright browsers
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/ms-playwright
-          key: ${{ runner.os }}-playwright-browsers
-          restore-keys: |
-            ${{ runner.os }}-playwright-
+#       - name: Cache Playwright browsers
+#         uses: actions/cache@v4
+#         with:
+#           path: ~/.cache/ms-playwright
+#           key: ${{ runner.os }}-playwright-browsers
+#           restore-keys: |
+#             ${{ runner.os }}-playwright-
 
-      - name: Install Python dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+#       - name: Install Python dependencies
+#         run: |
+#           python -m pip install --upgrade pip
+#           pip install -r requirements.txt
 
-      - name: Install Playwright browsers
-        run: python -m playwright install --with-deps
+#       - name: Install Playwright browsers
+#         run: python -m playwright install --with-deps
 
-      - name: Cache data folder (CSV + sent_links + sent_ids)
-        uses: actions/cache@v4
-        with:
-          path: data
-          key: ${{ runner.os }}-hh-data-v3-${{ hashFiles('src/**/*.py') }}
-          restore-keys: |
-            ${{ runner.os }}-hh-data-
+#       - name: Cache data folder (CSV + sent_links + sent_ids)
+#         uses: actions/cache@v4
+#         with:
+#           path: data
+#           key: ${{ runner.os }}-hh-data-v3-${{ hashFiles('src/**/*.py') }}
+#           restore-keys: |
+#             ${{ runner.os }}-hh-data-
 
-      - name: Run scraper & publisher
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          GEM_API_TOKEN:      ${{ secrets.GEM_API_TOKEN }}
-          CHANNEL_USERNAME:   ${{ secrets.CHANNEL_USERNAME }}
-        run: python run_all.py
+#       - name: Run scraper & publisher
+#         env:
+#           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+#           GEM_API_TOKEN:      ${{ secrets.GEM_API_TOKEN }}
+#           CHANNEL_USERNAME:   ${{ secrets.CHANNEL_USERNAME }}
+#         run: python run_all.py
 
-      - name: Set up Git user
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+#       - name: Set up Git user
+#         run: |
+#           git config user.name "github-actions[bot]"
+#           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Commit data if changed
-        run: |
-          git add data || true
-          git diff --cached --quiet || git commit -m "chore: update data and sent_links"
+#       - name: Commit data if changed
+#         run: |
+#           git add data || true
+#           git diff --cached --quiet || git commit -m "chore: update data and sent_links"
 
-      - name: Push changes
-        run: git push origin main
+#       - name: Push changes
+#         run: git push origin main
   
